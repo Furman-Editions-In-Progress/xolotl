@@ -35,7 +35,7 @@ Main Building. 12:30–1:30
 House A. 2:00–exhaustion
 
 - What CWB has done with the Codex Xolotl data, thus far.
-	- [Images](images)
+	- [Images](images.md)
 	- [Torquemada in CiteApp](file:///Users/cblackwell/Desktop/Codex_Xolotl/CITE%20App/cite-1.14.0.html)
 - An idea of what is involved.
 - ??? (Will depend on the morning.)
