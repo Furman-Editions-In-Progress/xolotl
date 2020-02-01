@@ -78,7 +78,9 @@ House A: 9:30–12:30
 	- Funding for it.
 	- Buy-in for the longer term.
 
+### Afternoon
 
+???
 
 
 
