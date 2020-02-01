@@ -49,8 +49,20 @@ House A: 9:30–12:30
 	- Scaffolding for CollectionMaker
 	- Demo Collection
 - Concerns
+<<<<<<< HEAD
 	- Human factors
 	- Learning curves
+=======
+	- Learning curves:
+		- `git` and [GitHub](https://github.com/Furman-Editions-In-Progress/xolotl)
+		- [Markdown](https://www.markdowntutorial.com)
+		- Basic POSIX (Unix/Linux, which includes MacOS) Command-line.
+	- Irreducible Complexity
+		- A look at the existing app, in France
+		- Obvious benefits
+		- Obvious costs and ignored costs
+		- See, by contrast, [this file](https://raw.githubusercontent.com/Furman-Editions-In-Progress/xolotl/master/cex/xolotl_all.cex)
+>>>>>>> Update agenda
 
 ## Tasks
 
