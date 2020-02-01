@@ -48,7 +48,7 @@ House A: 9:30–12:30
 - Update from CWB
 	- Scaffolding for CollectionMaker
 	- Demo Collection
-- Concerns
+- Concerns:
 	- Learning curves:
 		- `git` and [GitHub](https://github.com/Furman-Editions-In-Progress/xolotl)
 		- [Markdown](https://www.markdowntutorial.com)
@@ -67,12 +67,20 @@ House A: 9:30–12:30
 			- No app.
 			- But with a Text Editor, you could answer almost any question you could ask.
 			- With a little scripting (in Scala, Python, Javascript, C++, whatever) you could answer any questions the data is capable of answering.
+		- If I had pursued **CollectionMaker** all night…
+			- You could make a new Collection for, *e.g.* comments on images.
+			- You would have to:
+				- Export it as CEX
+				- Add to it, getting everything right
+				- Load it into some app or service
+				- Ultimatelly, get it online for others to use.
 	- Why HMT works:
 		- Student-editors have no preconceptions about how work "should" happen.
 		- They are students, and are used to learning new ways of working.
 		- We get them for 2 weeks in the summer.
 		- They go on to amass a few years of experience.
 		- They do not expect to type a thing and see it online, incorporated into a published dataset, immediately. They understand that this is unreasonable.
+		- (Put another way) The editors and commentators do not expect that they are also the publishers.
 - Solutions?
 	- A long-term relationship.
 	- A specific commitment to training
