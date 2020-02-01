@@ -13373,21 +13373,21 @@ urn:cite2:xolotl:commentary.v1.date:#Data#String#
 
 #!citedata
 urn#label#surface#img#comment#commentator#date
-urn:cite2:xolotl:commentary.v1:1#Comment 1#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#A scene with Xolotl in it.#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:2#Comment 2#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#Here's Xolotl#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:3#Comment 3#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#A toltec guy with his offspring#CWB#2020-02-01
+urn:cite2:xolotl:commentary.v1:1#Comment 1#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#Xolotl encounters Toltec husband and wife with child at Tepexoxoma.#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:2#Comment 2#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#Xolotl observes#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:3#Comment 3#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#A Toltec and child#JO#2020-02-01
 urn:cite2:xolotl:commentary.v1:4#Comment 4#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#This evidently means "four years".#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:5#Comment 5#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#Maybe this is some geographic feature?#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:6#Comment 6#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#A figure who seems to be wearing a bib.#CWB#2020-02-01
+urn:cite2:xolotl:commentary.v1:5#Comment 5#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#Tepexoxoma / Tepexomaco, possibly modern Tepeojuma#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:6#Comment 6#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#A Toltec man wearing a tilmatl#CWB#2020-02-01
 
 
 #!relations
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:1
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:2
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:3
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:4
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:5
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:6
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:1
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:2
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:3
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:4
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:5
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:6
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
@@ -13404,3 +13404,5 @@ urn:cite2:cite:verbs.v1:commentsOn#Subject (a CtsUrn) comments on the object (a 
 urn:cite2:cite:verbs.v1:illustrates#Subject (a Cite2Urn implemented by citable image data model) illustrates an object (a Cite2Urn).
 urn:cite2:cite:verbs.v1:appearsIn#Subject (a Cite2Urn) appears in a text (a CtsUrrn).
 urn:cite2:cite:verbs.v1:appearsOn#Subject (a CtsUrn) appears on a text-bearing surface (a Cite2Urrn).
+
+
