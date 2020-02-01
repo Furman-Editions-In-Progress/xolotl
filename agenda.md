@@ -38,11 +38,22 @@ House A. 2:00–exhaustion
 	- [Images](images.md)
 	- [Torquemada in CiteApp](file:///Users/cblackwell/Desktop/Codex_Xolotl/CITE%20App/cite-1.14.0.html)
 - An idea of what is involved.
-- ??? (Will depend on the morning.)
+
+## Saturday
+
+### Morning
+
+House A: 9:30–12:30
+
+- Update from CWB
+	- Scaffolding for CollectionMaker
+	- Demo Collection
+- Concerns
+	- Human factors
+	- Learning curves
 
 ## Tasks
 
-- Rotate images!
 
 
 
