@@ -40,5 +40,9 @@ House A. 2:00–exhaustion
 - An idea of what is involved.
 - ??? (Will depend on the morning.)
 
+## Tasks
+
+- Rotate images!
+
 
 
