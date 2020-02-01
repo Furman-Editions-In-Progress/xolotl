@@ -8,3 +8,4 @@ Collaborative work involving the Codex Xolotl and the CITE Architecture.
 - [CITE Library APIs](https://github.com/cite-architecture/cite-api-docs)
 - [Agenda for initial meeting: 1/31/2020 – 2/1/2020](agenda.md)
 - [Images online](images.md)
+- [Codex Xolotl Microservice](scs.md)
