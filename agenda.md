@@ -80,7 +80,7 @@ House A: 9:30–12:30
 
 ### Afternoon
 
-???
+Can we do something, realistically useful, by May? If so, what?
 
 
 
