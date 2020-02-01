@@ -69,6 +69,7 @@ House A: 9:30–12:30
 			- With a little scripting (in Scala, Python, Javascript, C++, whatever) you could answer any questions the data is capable of answering.
 	- Why HMT works:
 		- Student-editors have no preconceptions about how work "should" happen.
+		- They are students, and are used to learning new ways of working.
 		- We get them for 2 weeks in the summer.
 		- They go on to amass a few years of experience.
 		- They do not expect to type a thing and see it online, incorporated into a published dataset, immediately. They understand that this is unreasonable.
@@ -78,9 +79,15 @@ House A: 9:30–12:30
 	- Funding for it.
 	- Buy-in for the longer term.
 
+### Mid-Day
+
+A couple of hours to think and do stuff.
+
 ### Afternoon
 
 Can we do something, realistically useful, by May? If so, what?
 
+### Dinner
 
+???
 
