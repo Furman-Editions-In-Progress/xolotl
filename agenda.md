@@ -54,17 +54,30 @@ House A: 9:30–12:30
 		- [Markdown](https://www.markdowntutorial.com)
 		- Basic POSIX (Unix/Linux, which includes MacOS) Command-line.
 	- Irreducible Complexity
-		- A look at the existing app, in France
+		- The existing app, in France
 		- Obvious benefits
+			- It works (on Windows)
+			- You can do all kinds of crazy queries
 		- Obvious costs and ignored costs
+			- The data is… where?
+			- You can only do queries that the author has thought of.
+			- You can only get the outputs and visualizations that the author has thought of. And only on Windows. And in 10 years…?
 		- See, by contrast, [this file](https://raw.githubusercontent.com/Furman-Editions-In-Progress/xolotl/master/cex/xolotl_all.cex)
-	- Why HMT works
+			- No help.
+			- No app.
+			- But with a Text Editor, you could answer almost any question you could ask.
+			- With a little scripting (in Scala, Python, Javascript, C++, whatever) you could answer any questions the data is capable of answering.
+	- Why HMT works:
 		- Student-editors have no preconceptions about how work "should" happen.
 		- We get them for 2 weeks in the summer.
 		- They go on to amass a few years of experience.
 		- They do not expect to type a thing and see it online, incorporated into a published dataset, immediately. They understand that this is unreasonable.
+- Solutions?
+	- A long-term relationship.
+	- A specific commitment to training
+	- Funding for it.
+	- Buy-in for the longer term.
 
-## Tasks
 
 
 
