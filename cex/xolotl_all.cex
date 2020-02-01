@@ -6,6 +6,9 @@ name#CEX library
 urn#urn:cite2:cex:temp_xolotl.v1:temp1
 license#CC 3.0 NC-BY
 
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:xolotl:torquemada.001.offner:#chapter/section/sentence#fray Juan de Torquemada#Monarquía indiana, 1615#Offner, etc.##true#esp
 
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
@@ -13172,9 +13175,6 @@ urn:cts:xolotl:torquemada.001.offner.token:35.1.105#naciones,
 urn:cts:xolotl:torquemada.001.offner.token:35.1.106#a 
 urn:cts:xolotl:torquemada.001.offner.token:35.1.107#cuya
 
-#!ctscatalog
-urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
-urn:cts:xolotl:torquemada.001.offner:#chapter/section/sentence#fray Juan de Torquemada#Monarquía indiana, 1615#Offner, etc.##true#esp
 
 #!ctsdata
 urn:cts:xolotl:torquemada.001.offner:15.head#De cómo el chichimeca Xolotl, señor de las provincias y reinos de Amaqueme, en el septentrión o partes del norte, primer poblador de esta Nueva España después de los tultecas, viendo que las gentes que le solían hacer guerra ya no parecían, se determinó de entrarles las tierras a buscarlos y envió sus exploradores para que las recorriesen
