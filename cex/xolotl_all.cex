@@ -13251,7 +13251,7 @@ Collection#Model#Label#Description
 urn:cite2:xolotl:codeximg.2020:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:fufolio:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference.  See <TBA>.
 // DSE identified below
-urn:cite2:xolotl:codexdse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
+urn:cite2:xolotl:codexdse.v1:#urn:cite2:cite:datamodels.v1:dsemodel#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
 // Extended String Property Types
 urn:cite2:fufolio:extended_text_properties.v1:#urn:cite2:cite:datamodels.v1:extensions_text#Extended Text Properies#Extended Text Property. See documentation at <https://github.com/cite-architecture/>.
 
