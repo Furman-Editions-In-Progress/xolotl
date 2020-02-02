@@ -1,3 +1,8 @@
+
+
+([home](README.md))
+
+
 # Codex Xolotl · Cite Architecture
 
 A two-day workshop on the *Homer Multitext* and its CITE Architecture and how it might contribute to, collaborate with, and support work on the Codex Xolotl.
