@@ -16,5 +16,5 @@ Collaborative work involving the Codex Xolotl and the CITE Architecture.
 ## Personnel
 
 - Jerome Offner. Houston Museum of Natural Science.
-- Haley Woodward. Tulane University.
+- Hayley Woodward. Tulane University.
 - Christopher Blackwell. Furman University, CITE Architecture.
