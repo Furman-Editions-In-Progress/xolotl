@@ -2,8 +2,8 @@
 #!cexversion
 3.0
 #!citelibrary
-name#Codex Xolotl, Initial data release, 2020c
-urn#urn:cite2:cex:temp_xolotl.v1:2020c
+name#Codex Xolotl, Initial data release, 2020d (Contains dummy data for testing!)
+urn#urn:cite2:cex:temp_xolotl.v1:2020d
 license#CC 3.0 NC-BY
 
 #!ctscatalog
@@ -13258,7 +13258,7 @@ urn:cite2:fufolio:extended_text_properties.v1:#urn:cite2:cite:datamodels.v1:exte
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:xolotl:codex.v1:#Codex Xolotl#urn:cite2:xolotl:codex.v1.label:#urn:cite2:xolotl:codex.v1.sequence:#CC-NC-BY
-urn:cite2:xolotl:codeximg.2020:#Images of Papyri: Furman Research#urn:cite2:xolotl:codeximg.2020.caption:##CC-attribution-share-alike
+urn:cite2:xolotl:codeximg.2020:#Images of Codex Xolotl: Furman Research#urn:cite2:xolotl:codeximg.2020.caption:##CC-attribution-share-alike
 //
 // A collection that documents our datamodels
 //
@@ -13375,14 +13375,16 @@ urn:cite2:xolotl:codex.v1.defaultimg:#Default image#Cite2Urn#
 #!citedata
 sequence#urn#rv#label#defaultimg
 0#urn:cite2:xolotl:codex.v1:1#verso#Codex Xolotl 10 verso#urn:cite2:xolotl:codeximg.2020:25_10v_vis
-1#urn:cite2:xolotl:codex.v1:2#verso#Codex Xolotl 11 recto#urn:cite2:xolotl:codeximg.2020:27_11r_vis2
+1#urn:cite2:xolotl:codex.v1:2#recto#Codex Xolotl 11 recto#urn:cite2:xolotl:codeximg.2020:27_11r_vis2
 
 //
 // The DSE data itself: citable graphs of surface+text+image
 //
 #!citedata
 seq#urn#label#passage#imageroi#surface
-0#urn:cite2:xolotl:codexdse.v1:1#Test DSE record#urn:cts:xolotl:torquemada.001.offner:19.1#urn:cite2:xolotl:codeximg.2020:25_10v_vis@0.2283,0.3957,0.2131,0.04936#urn:cite2:xolotl:codex.v1:1
+0#urn:cite2:xolotl:codexdse.v1:1#Test DSE record 1#urn:cts:xolotl:torquemada.001.offner:19.1#urn:cite2:xolotl:codeximg.2020:25_10v_vis@0.2283,0.3957,0.2131,0.04936#urn:cite2:xolotl:codex.v1:1
+1#urn:cite2:xolotl:codexdse.v1:2#Test DSE record 2#urn:cts:xolotl:torquemada.001.offner:19.2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.1523,0.4288,0.1323,0.07517#urn:cite2:xolotl:codex.v1:2
+2#urn:cite2:xolotl:codexdse.v1:3#Test DSE record3#urn:cts:xolotl:torquemada.001.offner:19.3#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3669,0.4913,0.07697,0.05706#urn:cite2:xolotl:codex.v1:2
 
 
 // New collection of comments!
