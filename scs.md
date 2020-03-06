@@ -11,7 +11,7 @@ We now have an instance of (SCS) running with Codex Xolotl data, *e.g.*: <http:/
 
 - [About this data](http://folio2.furman.edu/xolotl/libraryinfo)
 - [A passage of text](http://folio2.furman.edu/xolotl/texts/urn:cts:xolotl:torquemada.001.offner:25.2)
-- [A tokenized edition](http://folio2.furman.edu/xolotl/texts/urn:cts:xolotl:torquemada.001.offner.token:25.head)
-- [Getting precise](http://folio2.furman.edu/xolotl/texts/urn:cts:xolotl:torquemada.001.offner.token:19.2.41-19.2.46)
+- [A tokenized edition](http://folio2.furman.edu/xolotl/texts/urn:cts:greekLit:torquemada.001.offner.sent:20.1)
+- [Getting precise](http://folio2.furman.edu/xolotl/texts/urn:cts:greekLit:torquemada.001.offner.sent:20.1.1-20.1.2)
 - [N-Grams](http://folio2.furman.edu/xolotl/texts/ngram/urn:cts:xolotl:torquemada.001.offner:?n=5)
 - [An object in a collection](http://folio2.furman.edu/xolotl/objects/urn:cite2:xolotl:commentary.v1:5)
