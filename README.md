@@ -18,7 +18,7 @@ Collaborative work involving the Codex Xolotl and the CITE Architecture.
 	- E.g. [This link to a specific place-identification, showing *Markdown* markup providing styling and links in a text-property, and resolving *latitude-longitude* coordinates to a map.](http://www.homermultitext.org/xolotl/index.html?urn=urn:cite2:xolotl:placeidentifications.v1:2)
 	- Or [this link to a particular image.](http://www.homermultitext.org/xolotl/index.html?urn=urn:cite2:xolotl:codeximg.2020:27_11r_vis2)
 	- Or [this link to a specific passage of text in the library.](http://www.homermultitext.org/xolotl/index.html?urn=urn:cts:xolotl:torquemada.001.offner:15.1)
-
+- [Initial alignment work](initial.md)
 
 ## Personnel
 
