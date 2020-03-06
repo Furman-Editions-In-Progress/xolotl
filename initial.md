@@ -16,10 +16,9 @@ Preliminary image-text alignment work. March, 2020.
 - Other texts: by Sentence and by Word
 - Alignments. 
 
-## A Markdown Tutorial
+## A Very Short Markdown Tutorial
 
 | What You Type | What It Looks Like |
 |---------------|--------------------|
 | `*italics*`   | *italics*   |
 | `**bold**`    | **bold**    |
-| `[Link](www.google.com)` | [Link](www.google.com) |
