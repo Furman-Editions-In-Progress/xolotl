@@ -1,3 +1,6 @@
+
+[Home](https://furman-editions-in-progress.github.io/xolotl/)
+
 # Initial Work
 
 Preliminary image-text alignment work. March, 2020.
