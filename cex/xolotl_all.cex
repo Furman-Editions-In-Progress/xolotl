@@ -13254,6 +13254,8 @@ urn:cite2:fufolio:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable i
 urn:cite2:xolotl:codexdse.v1:#urn:cite2:cite:datamodels.v1:dsemodel#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
 // Extended String Property Types
 urn:cite2:fufolio:extended_text_properties.v1:#urn:cite2:cite:datamodels.v1:extensions_text#Extended Text Properies#Extended Text Property. See documentation at <https://github.com/cite-architecture/>.
+// Commentary Model
+urn:cite2:cite:verbs.v1:#urn:cite2:cite:datamodels.v1:commentarymodel#Commentary Model#URN comments on URN. See documentation at <https://github.com/cite-architecture/commentary>.
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
@@ -13625,4 +13627,764 @@ seq#urn#label#text#auth
 238#urn:cite2:xolotl:crapo.v1:238#Crapo & Glass-Coffin, footnote 238.#Here the final accent appears to indicate nasalization, that is, the word is _inin_.#Richley H. Crapo, Bonnie Glass-Coffin
 239#urn:cite2:xolotl:crapo.v1:239#Crapo & Glass-Coffin, footnote 239.#The scribe misspelled the name as _toltzin_. Tlotzin was the ruler of the Acolhua state, the capital of which was Teztcoco. According to Torquemada, he was also named Pochotl (1.58.73).#Richley H. Crapo, Bonnie Glass-Coffin
 
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:xolotl:anonMex.001.crapo_eng:#chapter/section#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#English. Richley H. Crapo, Bonnie Glass-Coffin, edd. and trans.##true#eng
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:#chapter/section/sentence#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#English. Richley H. Crapo, Bonnie Glass-Coffin, edd. and trans.#Sentence tokenization#true#eng
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_eng:2.0#Chapter 2
+urn:cts:xolotl:anonMex.001.crapo_eng:2.1#Here it is told [how] the second ones came to live here in the plains of Mexico.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.2#Finally, all of the land was abandoned, and the Toltecs had already gone to the territory below. In one town, which was called Amaqueme, there was a lord, the king of the Chichimeca, whose name was Tlamacatzin. And his vassals all went completely naked. They simply went about only dressed with tanned animal skins. They were frightening, because their avocation was conducting war, and they carried their hunting arrows, arrows, and bows. And they ate whatever they found, [even] insects and butterflies. The lord died, leaving his two sons, one called Achcauhtzin, [the other] Xolotl. The first became the lord of the rulership; the second was restless at heart because he had not been made the ruler. He gathered the captains and the chiefs together and told them that he wanted to depart and [take revenge] for what had been done to his ancestors, to his great-grandfathers and his grandfathers who were toward the south while they were still known <gap>, before they left to search wandering from Nueva Viscaya, three hundred leagues away. And they returned with the news that within all of the land there was nothing but fallen buildings and crumbled walls of houses. In one hundred and eighty days time all his vassals left together. Indeed, six governors came along, and a hundred and twenty thousand captains came, some of them with nine hundred men. And the lord [Xolotl] left his brother lord, who was called Achcauhtzin, residing in that place. His vassals [numbered] five hundred thousand, not counting women or children settled near him. Thus it was told quite clearly in their papers of knowledge. One year later they arrived at a place they called Chocoayan. From there they went to Coatlicamac, and from there to Tepenenetl (as it is believed to be named today). From there they went to Tollan, where they found only ruins and signs of walls, and [only] stewards and a few men. They went on to Mizquiyahualan without stopping anywhere and settled themselves on a mountain that pleased them. They named it with the name of Xolotl (and apparently it still has that name today). And from here he sent his son Nopaltzin so that he would survey the land there and so that he could go knowledgeably seeking other places round about. Then he arrived at the land near the mountains of Zempoala and Tepeapulco. Then he returned to where he had recently established himself on Mount Xoloc. And his son went beyond the forests that are near Tetzcoco. He observed all the flat fields where maize had been planted. He therefore went toward the wilderness of Mount Popocatepetl. From there he saw smoke rising near Coyohuacan and Chapultepec.Immediately he reported it to his father, who had gone the other direction. Some of these captains left and they went to the mountain of Tenayuca, which they saw that it was a good dwelling place. They returned to tell their commander, and they gathered themselves together. It was the judgment of Nopaltzin that they should leave Mount Xoloc, that they should go to Tenayuca. And they gathered together [the people] who had come. They were told at that time that on going by, they should each … place a stone in different places, forming thereby twelve mountains of small rocks that you see there now. And this place is called Nepoalco. And it is said that they counted 3,200,000 men. And after lord Xolotl had established himself as lord there at Tenayuca with all the captains, he distributed pieces of land to one each of the lords, those six who had come with him/.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.3#Although he was pleased with the new lands, Xolotl was not content, because perhaps there might be others, landowners or farmers, who kept guard, who might watch carefully, who might take back [the land]. So he sent Acatomatl, one of the six nobles who had come to the vicinity with him, with spears and piercing arrows. And then they were discharged to the place there where Nopaltzin had seen signs of smoke. There they found a Toltec named Ezetzin, who had his wife Axochiatl and one of his children with him. There they said that [their people] had gone. But he and some others who were near Lake Chalco had hidden themselves. They did not want to go with their friends when they left the land. [Acatomatl] went on to Culhuacan, and there they found two others nearby with their children and their wives: Xiuhtematl and his wife Oceloxochitl, and Cozauhtli and [his wife] Yhioxochitl and their children Coyotl and Acxocuahuitl. And near the Chalco shore he found some others (not many). He crossed Popocatepetl, and there in Tepexoxoma he found others with their children and wives. These said that in Cholollan there were two Chalchiuhteme priests. And after he arrived there, he went to report to his lord Xolotl. And when finally the noble saw that no one was encroaching, he distributed the land to his followers. And while giving the best places to the lords, he undertook to split up the commoners there below Zacatlan, Cuauhchinanco, Totopec, and Atotonilco (the region that was called Chichime-Catlalpan), and others [ … ] were spread out along the edge of the lake, a place named … Tenayuca. Then he remained ruler in his city, Tenayuca, so that he alone took care of the land. And thus in the seventeenth year he moved to the city of Tetzcoco, which had been surveyed by his son Nopaltzin.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.4#Eight years later, after lord Xolotl arrived, six nobles of different languages came bringing [just] a few people with them, so that they could first observe whether they might es-tablish themselves here. And their names were first Tecuantzin, then Tzontehua, Helzacatitechcochi, Huahuantzin, Tepotzotecua, and Itzcuincuani. While it is said the Otomi, the Tlaxcalteca, the Mizteca, and the Popoloca derived from them, it possibly could be true, except that the Tlaxcalteca (who came later) should not be counted among them.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.5#In the forty and seventh year after the noble Xolotl arrived, another three rulers came, bringing many well-adorned warriors. He who led them was called Acolhua, so that they took the name of his lineage. It was the noble title of Citzin, who was great.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.6#And … happily lord Xolotl and his son Nopaltzin received them, and he gave them in marriage the two girls whom he guarded. He gave Cuetlaxochitl to Acolhua as wife, and he gave him the nobility of Azcaputzalco. And to Chiconquauhtli he gave Cihuaxochitl as wife, and he gave him the nobility of Xaltocan. And so to his third son-in-law, Tzontecomatl, he gave the nobility and rulership of Coatlichan and Tetzcoco. And then after he gave the two girls in marriage, he tried to marry his son Nopaltzin to a Toltec girl, daughter of the noble lord Pochotl and granddaughter of the ruler Topiltzin, who had reared her secretly in Tlaximaloyan. Her mother was secretly Huitziltzilin, and the name of this noble girl was Azcaxochitl. Finally, this rulership had grown, with fifteen nobles (six who came with lord Xolotl, and six who came afterwards, and three [more] who arrived [after that]). And [one of the three who] arrived who was named Acatonalli, to whom he gave the city and all the territory of Coatepec. And to Cuatlapal he gave the city Mamalhuazco (and its companion Cozcacuauhtli), and to Iztacmitl (who had reared Nopaltzin) he gave Tepeyecac, which is called Huadalupetzin today, and to Tecpan and Iztac-Cuauhtli he gave the nobility of Mazahuacan.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.7#After lord Xolotl arrived at this point, he got sick and died in this way at this place, with all his children, friends, and his subjects, when he was 200 years old. And he had held the lord rulership 112 years. And it had been 122 years since the Toltecs had been destroyed. He left behind his son Nopaltzin, who inherited from him and carried the rulership, and this one’s grandson Tlotzin, the son of the Toltec noblewoman, became the ruler of Tetzcoco. And he left his second son, who was called Quauhtequihuale, as ruler of Zacatlan.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.8#He left his third son Popozoc as ruler over Tenamihtic. And then his vassals, the Tolantzinco and others, rebelled. When he learned this, they went quickly to punish them, and he left them pacified. And in the twenty and seventh year [of] his government he died, and it was his son Tlotzin who was first called Pochotl, who reigned and governed at Tetzcoco. And he was succeeded by his son Quinatzin, whose second name was Tlaltecatzin. (Nothing at all is said of what this lord ruler did, except that [he spent his days] pursuing happiness with wasteful, joyous festivities and pleasures.) After he had ruled for thirty-six years, he died and he was succeeded by his son Quinatzin, whose second name was Tlaltecatzin, ruler of Tetzcoco, and he transferred his rulership there. He was the one who was first to be carried on a litter on the shoulders of four nobles, who were not called rulers. And he was carried under a shade, which they each carried in turn.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.9#Then in Tenayuca his mother’s older brother, who was called Tenancaltzin, took control. At that time the Mexica arrived here in the new land, and this ruler intercepted them there on the road. He drove them away to Chapultepec. Then he died, sixty years from when he received the rulers. He was the ruler who was the first whom they embalmed with unguents. They buried him with very many of his things: his bow, an eagle carved of wood, a jaguar at his feet, on his back a bow, and arrows in his hand. For his burial a sepulcher of stone was established, a place others would use to be buried.
+urn:cts:xolotl:anonMex.001.crapo_eng:2.10#And later one of his sons, Tecoatlalatzin, entered [to rule], and thus they proclaimed him king there at Tetzcoco. And after he saw his rulership pacified, he divided his vassals into four groups: the Acolhua, Metztecazca Chichimec, Tepaneca, and Culhua. He established twenty-six governing cities, so that they would help him (being next to him in authority), as well as thirty-nine provinces and cities into which he transferred nobles, who in all were sixty-five governors and nobles who recognized him as sovereign once and for all, and he made them their domains. This one ruled wisely. He scattered the people in each city, so that if there were 3,600 men in a Tepaneca town, he took 2,000 and removed them into a Chichimec town. And from there he would take together the same number to near the Tepaneca place, from which he had taken some of the first onesto another place, so that by doing thus they were all together with different people who had been reared elsewhere. Thus if they wanted others to rebel, they would not be able to do it, because they revealed themselves if they would conspire with those near them.
+
+
+
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.0.0#Chapter 2
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.1.0#Here it is told [how] the second ones came to live here in the plains of Mexico.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.0#Finally, all of the land was abandoned, and the Toltecs had already gone to the territory below.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.1#In one town, which was called Amaqueme, there was a lord, the king of the Chichimeca, whose name was Tlamacatzin.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.2#And his vassals all went completely naked.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.3#They simply went about only dressed with tanned animal skins.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.4#They were frightening, because their avocation was conducting war, and they carried their hunting arrows, arrows, and bows.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.5#And they ate whatever they found, [even] insects and butterflies.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.6#The lord died, leaving his two sons, one called Achcauhtzin, [the other] Xolotl.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.7#The first became the lord of the rulership;
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.8#the second was restless at heart because he had not been made the ruler.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.9#He gathered the captains and the chiefs together and told them that he wanted to depart and [take revenge] for what had been done to his ancestors, to his great-grandfathers and his grandfathers who were toward the south while they were still known <gap>, before they left to search wandering from Nueva Viscaya, three hundred leagues away.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.10#And they returned with the news that within all of the land there was nothing but fallen buildings and crumbled walls of houses.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.11#In one hundred and eighty days time all his vassals left together.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.12#Indeed, six governors came along, and a hundred and twenty thousand captains came, some of them with nine hundred men.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.13#And the lord [Xolotl] left his brother lord, who was called Achcauhtzin, residing in that place.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.14#His vassals [numbered] five hundred thousand, not counting women or children settled near him.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.15#Thus it was told quite clearly in their papers of knowledge.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.16#One year later they arrived at a place they called Chocoayan.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.17#From there they went to Coatlicamac, and from there to Tepenenetl (as it is believed to be named today).
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.18#From there they went to Tollan, where they found only ruins and signs of walls, and [only] stewards and a few men.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.19#They went on to Mizquiyahualan without stopping anywhere and settled themselves on a mountain that pleased them.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.20#They named it with the name of Xolotl (and apparently it still has that name today).
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.21#And from here he sent his son Nopaltzin so that he would survey the land there and so that he could go knowledgeably seeking other places round about.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.22#Then he arrived at the land near the mountains of Zempoala and Tepeapulco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.23#Then he returned to where he had recently established himself on Mount Xoloc.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.24#And his son went beyond the forests that are near Tetzcoco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.25#He observed all the flat fields where maize had been planted.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.26#He therefore went toward the wilderness of Mount Popocatepetl.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.27#From there he saw smoke rising near Coyohuacan and Chapultepec.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.28#Immediately he reported it to his father, who had gone the other direction.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.29#Some of these captains left and they went to the mountain of Tenayuca, which they saw that it was a good dwelling place.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.30#They returned to tell their commander, and they gathered themselves together.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.31#It was the judgment of Nopaltzin that they should leave Mount Xoloc, that they should go to Tenayuca.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.32#And they gathered together [the people] who had come.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.33#They were told at that time that on going by, they should each … place a stone in different places, forming thereby twelve mountains of small rocks that you see there now.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.34#And this place is called Nepoalco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.35#And it is said that they counted 3,200,000 men.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.36#And after lord Xolotl had established himself as lord there at Tenayuca with all the captains, he distributed pieces of land to one each of the lords, those six who had come with him/.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.0#Although he was pleased with the new lands, Xolotl was not content, because perhaps there might be others, landowners or farmers, who kept guard, who might watch carefully, who might take back [the land].
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.1#So he sent Acatomatl, one of the six nobles who had come to the vicinity with him, with spears and piercing arrows.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.2#And then they were discharged to the place there where Nopaltzin had seen signs of smoke.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.3#There they found a Toltec named Ezetzin, who had his wife Axochiatl and one of his children with him.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.4#There they said that [their people] had gone.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.5#But he and some others who were near Lake Chalco had hidden themselves.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.6#They did not want to go with their friends when they left the land.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.7#[Acatomatl] went on to Culhuacan, and there they found two others nearby with their children and their wives: Xiuhtematl and his wife Oceloxochitl, and Cozauhtli and [his wife] Yhioxochitl and their children Coyotl and Acxocuahuitl.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.8#And near the Chalco shore he found some others (not many).
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.9#He crossed Popocatepetl, and there in Tepexoxoma he found others with their children and wives.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.10#These said that in Cholollan there were two Chalchiuhteme priests.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.11#And after he arrived there, he went to report to his lord Xolotl.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.12#And when finally the noble saw that no one was encroaching, he distributed the land to his followers.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.13#And while giving the best places to the lords, he undertook to split up the commoners there below Zacatlan, Cuauhchinanco, Totopec, and Atotonilco (the region that was called Chichime-Catlalpan), and others [ … ] were spread out along the edge of the lake, a place named … Tenayuca.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.14#Then he remained ruler in his city, Tenayuca, so that he alone took care of the land.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.15#And thus in the seventeenth year he moved to the city of Tetzcoco, which had been surveyed by his son Nopaltzin.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.0#Eight years later, after lord Xolotl arrived, six nobles of different languages came bringing [just] a few people with them, so that they could first observe whether they might es-tablish themselves here.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.1#And their names were first Tecuantzin, then Tzontehua, Helzacatitechcochi, Huahuantzin, Tepotzotecua, and Itzcuincuani.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.2#While it is said the Otomi, the Tlaxcalteca, the Mizteca, and the Popoloca derived from them, it possibly could be true, except that the Tlaxcalteca (who came later) should not be counted among them.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.5.0#In the forty and seventh year after the noble Xolotl arrived, another three rulers came, bringing many well-adorned warriors.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.5.1#He who led them was called Acolhua, so that they took the name of his lineage.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.5.2#It was the noble title of Citzin, who was great.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.0#And … happily lord Xolotl and his son Nopaltzin received them, and he gave them in marriage the two girls whom he guarded.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.1#He gave Cuetlaxochitl to Acolhua as wife, and he gave him the nobility of Azcaputzalco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.2#And to Chiconquauhtli he gave Cihuaxochitl as wife, and he gave him the nobility of Xaltocan.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.3#And so to his third son-in-law, Tzontecomatl, he gave the nobility and rulership of Coatlichan and Tetzcoco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.4#And then after he gave the two girls in marriage, he tried to marry his son Nopaltzin to a Toltec girl, daughter of the noble lord Pochotl and granddaughter of the ruler Topiltzin, who had reared her secretly in Tlaximaloyan.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.5#Her mother was secretly Huitziltzilin, and the name of this noble girl was Azcaxochitl.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.6#Finally, this rulership had grown, with fifteen nobles (six who came with lord Xolotl, and six who came afterwards, and three [more] who arrived [after that]).
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.7#And [one of the three who] arrived who was named Acatonalli, to whom he gave the city and all the territory of Coatepec.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.8#And to Cuatlapal he gave the city Mamalhuazco (and its companion Cozcacuauhtli), and to Iztacmitl (who had reared Nopaltzin) he gave Tepeyecac, which is called Huadalupetzin today, and to Tecpan and Iztac-Cuauhtli he gave the nobility of Mazahuacan.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.0#After lord Xolotl arrived at this point, he got sick and died in this way at this place, with all his children, friends, and his subjects, when he was 200 years old.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.1#And he had held the lord rulership 112 years.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.2#And it had been 122 years since the Toltecs had been destroyed.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.3#He left behind his son Nopaltzin, who inherited from him and carried the rulership, and this one’s grandson Tlotzin, the son of the Toltec noblewoman, became the ruler of Tetzcoco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.4#And he left his second son, who was called Quauhtequihuale, as ruler of Zacatlan.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.0#He left his third son Popozoc as ruler over Tenamihtic.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.1#And then his vassals, the Tolantzinco and others, rebelled.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.2#When he learned this, they went quickly to punish them, and he left them pacified.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.3#And in the twenty and seventh year [of] his government he died, and it was his son Tlotzin who was first called Pochotl, who reigned and governed at Tetzcoco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.4#And he was succeeded by his son Quinatzin, whose second name was Tlaltecatzin.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.5#(Nothing at all is said of what this lord ruler did, except that [he spent his days] pursuing happiness with wasteful, joyous festivities and pleasures.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.6#) After he had ruled for thirty-six years, he died and he was succeeded by his son Quinatzin, whose second name was Tlaltecatzin, ruler of Tetzcoco, and he transferred his rulership there.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.7#He was the one who was first to be carried on a litter on the shoulders of four nobles, who were not called rulers.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.8#And he was carried under a shade, which they each carried in turn.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.0#Then in Tenayuca his mother’s older brother, who was called Tenancaltzin, took control.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.1#At that time the Mexica arrived here in the new land, and this ruler intercepted them there on the road.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.2#He drove them away to Chapultepec.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.3#Then he died, sixty years from when he received the rulers.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.4#He was the ruler who was the first whom they embalmed with unguents.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.5#They buried him with very many of his things: his bow, an eagle carved of wood, a jaguar at his feet, on his back a bow, and arrows in his hand.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.6#For his burial a sepulcher of stone was established, a place others would use to be buried.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.0#And later one of his sons, Tecoatlalatzin, entered [to rule], and thus they proclaimed him king there at Tetzcoco.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.1#And after he saw his rulership pacified, he divided his vassals into four groups: the Acolhua, Metztecazca Chichimec, Tepaneca, and Culhua.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.2#He established twenty-six governing cities, so that they would help him (being next to him in authority), as well as thirty-nine provinces and cities into which he transferred nobles, who in all were sixty-five governors and nobles who recognized him as sovereign once and for all, and he made them their domains.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.3#This one ruled wisely.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.4#He scattered the people in each city, so that if there were 3,600 men in a Tepaneca town, he took 2,000 and removed them into a Chichimec town.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.5#And from there he would take together the same number to near the Tepaneca place, from which he had taken some of the first onesto another place, so that by doing thus they were all together with different people who had been reared elsewhere.
+urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.6#Thus if they wanted others to rebel, they would not be able to do it, because they revealed themselves if they would conspire with those near them.
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:xolotl:anonMex.001.crapo_nah1:#chapter/section#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#Nahautl. Diplomatic. Richley H. Crapo, Bonnie Glass-Coffin, edd. and trans.##true#nah
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:#chapter/section/sentence#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#Nahuatl. DiplomatiRichley H. Crapo, Bonnie Glass-Coffin, edd. and trans.#Sentence tokenization#true#nah
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.0#[Ynic Capitulo II]
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.1#_nican motenehua yníc ôme [ … n] oaltepe manaco nicá mexí-catlal ytzmapan._
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.2#Zatepanian mochí yntlallí ocahualoc yeo yaque intolteca ypan Yn tlatilanaltin tlazintlan, Ypanceme Altepetl quítocayo-tia Amaquémê.|| ocatcaya çe theuctlí-yntlatocauh ý chichimeca ytocaCatca Tlamacatzin, auh y ni macehualhuá, mochí. cenpetlauhtinemía, zantlaquentitinemia Yca tecuan cuetlaxtín temamauhtique, cayncemitol yn Yaoyotl quipiaya tetotocamitl, mintli Yn tlahuitol, quicauyia yn tlen cacia yolcame papalome- omiquí Ynín theuctli oquicauh o meme ypilhuan ceytoca Achcauhtzin, Xolotl- ynachto pa, oteuctic ypantlatocayotl, Yníc ome amo yolo motlallí ynîc amo o teuctia, Oquincentlallí. Yaoteyecanque, tzontecomame quítoquínalquixtiz Yntle in Ynecocol, ochihualoc y niachtonhuá Yni colhuan, catca tonallixtlacuâpan,|| inicuachoctlein machixtíticatca, oq[ui … ] ynaíemo quízaía, tlachían[tizYxquizalo] Yan cuícan Vízcaya caxtolpohualí, mecatlapoallí, auh ohualmocuepque tlanahuatico, ca mochí yntlallí, âmo aca quipîaí, yceltoc- ca oquitztiaque yn tetepanzoltin + calchihuali catcâ ⋕ chicnahui tlapoalpan cahuitl oquizquí Ynic cenmochtin yní macehualhuan, ca ohuallaya chi-cuaceme tlatoque auh yn nahuachuíc ohuallaya 25 xiquipilli yn yáotlya teayacanque; cace me yehuátin oquihualhuicaya onzontli Yhuá macuílpoalli oquichtin; auh oquicauh yn theuctli. ycniuh ytoca Achcauhtzín,cano ynahuac quicentlallí, ynimacehual-huá, yepohua lli yhuá ome xiquipilli yhuá tlâco, amo omo pouh cicihuà pipiltzin yVh neztoc ynimamauh machío, ce xiuhtica oacíco ce y eiantli qui to- cayo ti que chocoayan, oncan opanoque, Coatl ycamac, oncan opanoque, tepenenetl. caaxcan nômatiyuh mo tocayo-tia yvhquí; oncan opano-que tollan caoncan ocazique calzontin, tetepátin, ymachio ca ocalpixque occeme tlaca, auh opanoque, mizquí Yahualan, amo cana omo- [ … quetzque au]h omotlalico ypan ce tepetl ca [quicual]ytac, oquitocayoti yni noma Toca Xolotl, auh nomatica axcan catquí yni Toca, auh nican oquititlan y niPiltzin Nohpal-tzin, otlaltamachihuazquia, ca nomatica oyazquia quitemotiuh tlalyeiantlí, yna huachuic oacico ypan tetepe cempohuallá, yhuá tépeapolco, niman omocuep Yncá-pa Yancuican omocehuí ypá tepetl, Xolotl auh yni Piltzin opanoc cuautlalpan catquí ynahuachuic tetzcoco otlachix cemix tlahuacan neztoia, ca otoctíCatca tlaolli, opanoc cuauhtlahuíc Popocatepec. yncanpa quitac otlapopotzaia, onpa ynahuachuic coyo huacan, Yhuá chapoltepetl. vnehuac, oquí nahuatito Yni Tatzin, ynoçhícopanoc Ynin oquizque cequintin Yaotecanque⋕ oazito ypan tepetl tenanyocan, ca quicualytaque yn yeiantli, omoquepque, quinahuatito y ni tlatocauh, auh omocentlali que quicemito Yn Nôpaltzin oquicahuaz quiaya Yntepetl Xolotl, ynic Yazque Tenanyôcan,auh omocentl[a … ]tlaca<note n=""> ohualaya otlanahuatí, cece[n … quipana]notazquia quitlalitaz ce tetl, tlatlamanpan Yeínco auh omochiuh matlactli omome tetepetoton tetl caaxcan nômatica mohtâ, âuh y nin Yeyan tlí motocayotí, nepoalco, auhmihtóa caoquipouhque centzontli xiquipillí, tlacatl. auh za nic omoyeyantí Ynteuctli Xolotl onpa Yn tennanyocan. Yccen mochi yniteyaoquizcahuan oquixéxelo ynítlatilanal. çecenteûctlí ca chiquaçeme ôhualaía ynahuac—
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.3#Maciuhý pacticatca Xolotl, ycaínyancuícantlal cuiliztlí, amo híc Yollo motlalíaya, cui xcana- quipiaia hoccequintin tlaleque tlalmaceuhque, hueliz oquítzacuilizquía; auh ní-man oquititlan. Yn, Acatomatl ceme yn chicuacentin PiPiltin y nahuachuic ohualaque, yca tlaCa itzcuahuitl, mintlí, auh oncan ô nahuatiloque yncanpa oquihtac tlapopo-tza Yn Nopaltzin, oncan ocacíc, ce toltecatl ytoca Ezitzin, ynahuac catca y nicihuauh A-xochiatl, yhuan ce y Piltzin, oncan quilhuí. Que [ca yazque, auh] omotlatí, yehuatl, yhuan hoc cequintin caocatca Chalco Atencohuíc, amo-quineque Yazque incepá Ynicnihuá, ca yeotlalcauhcá, opanoc Colhuacan auh oncan ocacic oc omome, Ynnahuac yPilhuá Yhuá ycihuahuá, xiuhtematl, yhuá Y cihuauh, ozelo-xochitl, Cozauhtlí, Yhíoxochitl y huá yninpilhuá- Coyotl, Acxocuahuítl, auh atencohuic Chalco- oquimacíc occequintin amomiequintin, Ôquipanahui ynpopocatepetl, auh oncan te-pe Xoxoma, oquinmacíc occequintin yncayn pilhuanyhuá Ycihuahuan, ynin oquilhuí-ca chololam, ocatcaya ome theopixque Chal-chiuhteme. auh Zanoncan omocuep. oqui-monahuatilito yn theuctli Xolotl, auh za-tepanían Ye omo Pilytac ayac macequí- topehua, oquinxexelhuí ý tlalli, auh ynocachi Pipiltin oquinyeíantli, mahuiza uhcan oquixelol yn macehualtin. Inonpa tlatzintlan- Zacatlan, cuauhchinanco- Totopec, Atotonilco, ca motocayotia chichime ca tla:lpan) ⋕ auh ynoc cequí[tin … ] atencohuíc omo xixini taque, yt[o c a y o c a n i a]uh tenanyocan motzatzauh yn ialtepeuh, caza quicuitlahuiltitoc yntlatlamaliztlí, auh Ynic ye caxtolí ome xihuitl oqui man Yn Altepetl tetzcoco, ca oquíxtamachiuh ca YníPiltzin Nopaltzin—.
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.4#Ynic yeopanoc chicuey xiuhtica o acico y nXo-lotl, teuctlí; ohuala que chicuaceme Pipiltin tlatlamanpan. ynintlatol. amo miec tlaca|quí- hualhuicaya Ynícyequin nahuátíta canicanmocencahua, auh ynintotoca çe tecuantzin, tzontehua, Helzacatitechcochí; huahuantzín, tepotzotecua; Ytzcuincuaní; mazihui mitoa yntechquiza ynoTomîme Tlaxcalteca, mizteca, Popolocame, ca hueliz melahuac yeZ, mazoyhuí amo Yntlanhuic mopohua Yntlaxcalteca cazatepan ohua laque;———
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.5#Ypan onpoali yhuá chi come xihuitl oazico yn Pilli. Xolotl, ohuallaque hoc yeintin tlatoque qui hual ytquique miequintin Yao quizque chalchiuhtihuize, Ynquin Yacanaya Ytoca catca. Acolhua; yníc oquicuic ynitoca ynitla ca mecayo Ynipiltoca Citzin cahuey
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.6#[ … Au]h pacayotica oquicellique Yn teu[ctli X]olotl, Yhuan y ni Piltzin Nopaltzin.⋕- auh oquin na mictí yn nahuachuíc omé tín yníchpochuan quipiaía. Yn Acolhua oquícihuatí ynahuac ý cuetlax Xochitl- yhuá quimacac yn pilotl Azcapotzal co, auh yn chícon cuavhtli, oquí cihuati quimacac yn Çihuaxochitl, yhuá y npilo tl Xaltocan; auh ynic yeî Ymon ytoca Tzontecomatl, quimacac ynpilotl tlatocayotl CoatlYchan; tetzcôco; auh zanic o quin namictí ynyeime ichpoch huan: niman nentlama quinamícti Y ni Piltzin Nopaltzin yca ce Toltecatl, Ych poch yn pilteuctlí Pochotl. Yxhuíhu, yn tlatoaní- Topiltzin; ca oquízcaltíca Tlaximaloyan YníNantzín Huítzílzilin. ychtaca, auh ynitoca ynin cî hua pilli ychpochtlí Azca Xochitl⋕ Zatepanian Yehueyata yníntlalteucyotl yca caxtoltin Pipiltin, chicuacen meohualaque ynahuac ý teuctli Xolotl, chiacacenme Zatepanian o hua laque Yhuá yníc yeíntin oazíco; a[uh … o] hualaque ynitoca catca Acato[nalli aquin oqui]macac Yn altepetl yhuá mochi yn itlatilanal Yn Coatepec, auh yn cuatlapal. oquímacac, Yn Altepetl Mamalhuasco, auh yn Cozcacuauh tlí ytehuícal, auh yn yztac mitl. ynoquí-yzcaltí yn Nopaltzin, oquimac yntepeíecac ca axcan motocayotío Huadalupetzin: auh yn Tecpan, yhuan yztac cuauhtli, Ynpilotl Mazahuacan———
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.7#Niman zanicoacic ynteuctli Xolotl. ococoxtatíc omíc ⋕ ymixspan mochintin ynin Pilhuá hicní-huan. yhuá ytlacahuan ye matlacpohualli xiuhtica ynemilizpan; auh oquipix Ynte uctlatoca yeyautlí macuilpohuali. yhuá mâ-tlactliomomey xihuitl; | yhuan chicuacenpoalliyhuá ome xihuitl opoliuhque Yn toltecâ- omocauh ynípiltzin⋕ Nopaltzin, quimaceuh yhuicopa quihuicac ý tlatocayotl'yhuá Yní yxhuitzin Toltzin ipiltzin Yncihua-pilli toltecatl omocauh tlatoaní, tetzcôco. auh ynic ome iPiltzín ytoca Cuauhtiquihuale, oquipilcauh Zacatlan
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.8#[ynic y]etetl YPiltzin Pôpozoc oquí-Pilcau[h y]tech yn tenamihtíc. auh omacoque Y ní maçehualhuan tolantzincá, yhuan occequin tin, Ynomatica, oya qui quintla za cuiltito Yhuan pacayotica oquincauh, auh ypan cen pohuali y huá chi co me xi huitl ytlatocaliz- omiquí, auh oteutic yni Piltzin Toltzin (achtopa)mitohuaya Pochotl, ca teuctia Yni- Pan tezcoco Yhuá oquímaçeuh yni Piltzin Cuinatzín, cayometoca tlaltecatzín, amo mitoa ma ytla Ytlachihual. Ynín teuctlatoaní, ca zan paquiliz nen Ylhuitlâ Pacoaían ahahuizoian ca iníc cenpoali, Yhuan caxtolí yhuá ce xihuitl otlatocatic omomi-quillí, yhuá oquimaceuh yní Piltzin Cuinatzin= ynic ometoca tlaltecatzin tlatoani tetzcôco, auh onpa quipanolti Ynitlâ tocayo, ca íehuatl ynachtopa ohuícoc ypan ma huízauhquí tlapech maytl ymacolpan nahuintin Pípiltin, amo omotlatoca pohuaya, Yhuà ytlanhuic ohuicoya ce ecahuil maytl, auh yntla come. oquinhuicaya yntlatoque omopapa tlataya mochintin ⋕ oquicauh ynonpa Yn
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.9#Tenanyôcan motlacuitlahuíaya, [campa it]oca Tenan Cacaltzín yoquichtíuh. yn i[Nantzin]. Ypan ynín cahuitl o hual Azico yn Mexica nican Yancueca tlalpan, auh oquimíxnamíc ynin tlatoaní oncan otlí ypan onpa quimaxitito- chapoltepec.⋕ canpa axcan celilo yn tlatoque omomiquilí yepoal xiuhtica, ye tlatocatia; ca Yein yn achtopa, oquítemítíque yca ahuia ca Pahaatl, oquitlalílique miec ytlahuitol, ce cuauhtlí tlacuicuítl, ce ozelotl ycxitlan; yceuítlapanhuic tetocamítl, mintlí ymatzalan; cayehuatl onoquítlallí mîque tecallí yn canpa hoccequineque omotocatíaque;
+urn:cts:xolotl:anonMex.001.crapo_nah1:2.10#Auh niman ocalac ce ypiltzín tecoatlalatzîn auh ynic oquíteneuhque onpa tetzcôco; auh zan hic oquitac pacacatqui, Ynitlatocayo, oquinxexelo Yni Macehualhua nauhcan tlamápá- âcolhuaque, Metztecazca. chimeca, Tecpanneca col-huaque, Ynoquintecpan cenpoalli yhuá chicuacentlatoca Altepeme, ynic quipalehuízquía Ytech yntlá toca tequítl, no çenpoalli yhuá caxtollion nahuí tlamame Altepeme onpa quinpanoltí- Pipiltin, Ca cenmochi mochihua yepohuali yhuá [macuiltin tl]atoque yhuá Pipi-ltin, oquícuitiaya quen[nami tlal]tlatouní, ce tlamachiliztlí Ylna mícoca quípíx, oquinxexeloaiaya, tlaca altepepá- Ca Yntla ypancealtepe maytl, tepanecatl ocatcaya chicnavhtzontlí tlacatl; oquiquixtia macuiltzontli- yhuá oquin pan-oltiaya ypan Altepepan chichimêcâ, auh onpa oquinhualhuicaya ocno Yx-quích, ynnahuac yntepaneca, yn canpa oquin quixtícâ. Ynoccequintin; ca noyuh quichiuhta ynic, cemochí ynoc cequíntin tlaca izcaltique ypanpa intla oquinequízquía ynnoccequintin mehuazque áhuel omonecoc cetilizquia Yn nahuac,—
+
+
+
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.0.0#[Ynic Capitulo II]
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.1.0#_nican motenehua yníc ôme [ … n] oaltepe manaco nicá mexí-catlal ytzmapan.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.1.1#_
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.0#Zatepanian mochí yntlallí ocahualoc yeo yaque intolteca ypan Yn tlatilanaltin tlazintlan, Ypanceme Altepetl quítocayo-tia Amaquémê.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.1#|| ocatcaya çe theuctlí-yntlatocauh ý chichimeca ytocaCatca Tlamacatzin, auh y ni macehualhuá, mochí.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.2#cenpetlauhtinemía, zantlaquentitinemia Yca tecuan cuetlaxtín temamauhtique, cayncemitol yn Yaoyotl quipiaya tetotocamitl, mintli Yn tlahuitol, quicauyia yn tlen cacia yolcame papalome- omiquí Ynín theuctli oquicauh o meme ypilhuan ceytoca Achcauhtzin, Xolotl- ynachto pa, oteuctic ypantlatocayotl, Yníc ome amo yolo motlallí ynîc amo o teuctia, Oquincentlallí.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3#Yaoteyecanque, tzontecomame quítoquínalquixtiz Yntle in Ynecocol, ochihualoc y niachtonhuá Yni colhuan, catca tonallixtlacuâpan,|| inicuachoctlein machixtíticatca, oq[ui … ] ynaíemo quízaía, tlachían[tizYxquizalo] Yan cuícan Vízcaya caxtolpohualí, mecatlapoallí, auh ohualmocuepque tlanahuatico, ca mochí yntlallí, âmo aca quipîaí, yceltoc- ca oquitztiaque yn tetepanzoltin + calchihuali catcâ ⋕ chicnahui tlapoalpan cahuitl oquizquí Ynic cenmochtin yní macehualhuan, ca ohuallaya chi-cuaceme tlatoque auh yn nahuachuíc ohuallaya 25 xiquipilli yn yáotlya teayacanque;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.4#cace me yehuátin oquihualhuicaya onzontli Yhuá macuílpoalli oquichtin;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.5#auh oquicauh yn theuctli.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6#ycniuh ytoca Achcauhtzín,cano ynahuac quicentlallí, ynimacehual-huá, yepohua lli yhuá ome xiquipilli yhuá tlâco, amo omo pouh cicihuà pipiltzin yVh neztoc ynimamauh machío, ce xiuhtica oacíco ce y eiantli qui to- cayo ti que chocoayan, oncan opanoque, Coatl ycamac, oncan opanoque, tepenenetl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.7# caaxcan nômatiyuh mo tocayo-tia yvhquí;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8#oncan opano-que tollan caoncan ocazique calzontin, tetepátin, ymachio ca ocalpixque occeme tlaca, auh opanoque, mizquí Yahualan, amo cana omo- [ … quetzque au]h omotlalico ypan ce tepetl ca [quicual]ytac, oquitocayoti yni noma Toca Xolotl, auh nomatica axcan catquí yni Toca, auh nican oquititlan y niPiltzin Nohpal-tzin, otlaltamachihuazquia, ca nomatica oyazquia quitemotiuh tlalyeiantlí, yna huachuic oacico ypan tetepe cempohuallá, yhuá tépeapolco, niman omocuep Yncá-pa Yancuican omocehuí ypá tepetl, Xolotl auh yni Piltzin opanoc cuautlalpan catquí ynahuachuic tetzcoco otlachix cemix tlahuacan neztoia, ca otoctíCatca tlaolli, opanoc cuauhtlahuíc Popocatepec.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.9#yncanpa quitac otlapopotzaia, onpa ynahuachuic coyo huacan, Yhuá chapoltepetl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10#vnehuac, oquí nahuatito Yni Tatzin, ynoçhícopanoc Ynin oquizque cequintin Yaotecanque⋕ oazito ypan tepetl tenanyocan, ca quicualytaque yn yeiantli, omoquepque, quinahuatito y ni tlatocauh, auh omocentlali que quicemito Yn Nôpaltzin oquicahuaz quiaya Yntepetl Xolotl, ynic Yazque Tenanyôcan,auh omocentl[a … ]tlaca<note n=""> ohualaya otlanahuatí, cece[n … quipana]notazquia quitlalitaz ce tetl, tlatlamanpan Yeínco auh omochiuh matlactli omome tetepetoton tetl caaxcan nômatica mohtâ, âuh y nin Yeyan tlí motocayotí, nepoalco, auhmihtóa caoquipouhque centzontli xiquipillí, tlacatl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.11#auh za nic omoyeyantí Ynteuctli Xolotl onpa Yn tennanyocan.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.12# Yccen mochi yniteyaoquizcahuan oquixéxelo ynítlatilanal.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.13#çecenteûctlí ca chiquaçeme ôhualaía ynahuac—
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.0#Maciuhý pacticatca Xolotl, ycaínyancuícantlal cuiliztlí, amo híc Yollo motlalíaya, cui xcana- quipiaia hoccequintin tlaleque tlalmaceuhque, hueliz oquítzacuilizquía;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.1#auh ní-man oquititlan.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.2#Yn, Acatomatl ceme yn chicuacentin PiPiltin y nahuachuic ohualaque, yca tlaCa itzcuahuitl, mintlí, auh oncan ô nahuatiloque yncanpa oquihtac tlapopo-tza Yn Nopaltzin, oncan ocacíc, ce toltecatl ytoca Ezitzin, ynahuac catca y nicihuauh A-xochiatl, yhuan ce y Piltzin, oncan quilhuí.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.3#Que [ca yazque, auh] omotlatí, yehuatl, yhuan hoc cequintin caocatca Chalco Atencohuíc, amo-quineque Yazque incepá Ynicnihuá, ca yeotlalcauhcá, opanoc Colhuacan auh oncan ocacic oc omome, Ynnahuac yPilhuá Yhuá ycihuahuá, xiuhtematl, yhuá Y cihuauh, ozelo-xochitl, Cozauhtlí, Yhíoxochitl y huá yninpilhuá- Coyotl, Acxocuahuítl, auh atencohuic Chalco- oquimacíc occequintin amomiequintin, Ôquipanahui ynpopocatepetl, auh oncan te-pe Xoxoma, oquinmacíc occequintin yncayn pilhuanyhuá Ycihuahuan, ynin oquilhuí-ca chololam, ocatcaya ome theopixque Chal-chiuhteme.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.4#auh Zanoncan omocuep.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.5#oqui-monahuatilito yn theuctli Xolotl, auh za-tepanían Ye omo Pilytac ayac macequí- topehua, oquinxexelhuí ý tlalli, auh ynocachi Pipiltin oquinyeíantli, mahuiza uhcan oquixelol yn macehualtin.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.6#Inonpa tlatzintlan- Zacatlan, cuauhchinanco- Totopec, Atotonilco, ca motocayotia chichime ca tla:lpan) ⋕ auh ynoc cequí[tin … ] atencohuíc omo xixini taque, yt[o c a y o c a n i a]uh tenanyocan motzatzauh yn ialtepeuh, caza quicuitlahuiltitoc yntlatlamaliztlí, auh Ynic ye caxtolí ome xihuitl oqui man Yn Altepetl tetzcoco, ca oquíxtamachiuh ca YníPiltzin Nopaltzin—.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.0#Ynic yeopanoc chicuey xiuhtica o acico y nXo-lotl, teuctlí;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.1#ohuala que chicuaceme Pipiltin tlatlamanpan.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.2#ynintlatol.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.3#amo miec tlaca|quí- hualhuicaya Ynícyequin nahuátíta canicanmocencahua, auh ynintotoca çe tecuantzin, tzontehua, Helzacatitechcochí;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.4#huahuantzín, tepotzotecua;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.5#Ytzcuincuaní;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.6#mazihui mitoa yntechquiza ynoTomîme Tlaxcalteca, mizteca, Popolocame, ca hueliz melahuac yeZ, mazoyhuí amo Yntlanhuic mopohua Yntlaxcalteca cazatepan ohua laque;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.7#———
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.5.0#Ypan onpoali yhuá chi come xihuitl oazico yn Pilli.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.5.1#Xolotl, ohuallaque hoc yeintin tlatoque qui hual ytquique miequintin Yao quizque chalchiuhtihuize, Ynquin Yacanaya Ytoca catca.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.5.2#Acolhua;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.5.3#yníc oquicuic ynitoca ynitla ca mecayo Ynipiltoca Citzin cahuey
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.0#[ … Au]h pacayotica oquicellique Yn teu[ctli X]olotl, Yhuan y ni Piltzin Nopaltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.1#⋕- auh oquin na mictí yn nahuachuíc omé tín yníchpochuan quipiaía.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.2#Yn Acolhua oquícihuatí ynahuac ý cuetlax Xochitl- yhuá quimacac yn pilotl Azcapotzal co, auh yn chícon cuavhtli, oquí cihuati quimacac yn Çihuaxochitl, yhuá y npilo tl Xaltocan;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.3#auh ynic yeî Ymon ytoca Tzontecomatl, quimacac ynpilotl tlatocayotl CoatlYchan;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.4#tetzcôco;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.5#auh zanic o quin namictí ynyeime ichpoch huan: niman nentlama quinamícti Y ni Piltzin Nopaltzin yca ce Toltecatl, Ych poch yn pilteuctlí Pochotl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.6#Yxhuíhu, yn tlatoaní- Topiltzin;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.7#ca oquízcaltíca Tlaximaloyan YníNantzín Huítzílzilin.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.8#ychtaca, auh ynitoca ynin cî hua pilli ychpochtlí Azca Xochitl⋕ Zatepanian Yehueyata yníntlalteucyotl yca caxtoltin Pipiltin, chicuacen meohualaque ynahuac ý teuctli Xolotl, chiacacenme Zatepanian o hua laque Yhuá yníc yeíntin oazíco;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.9#a[uh … o] hualaque ynitoca catca Acato[nalli aquin oqui]macac Yn altepetl yhuá mochi yn itlatilanal Yn Coatepec, auh yn cuatlapal.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.10#oquímacac, Yn Altepetl Mamalhuasco, auh yn Cozcacuauh tlí ytehuícal, auh yn yztac mitl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.11#ynoquí-yzcaltí yn Nopaltzin, oquimac yntepeíecac ca axcan motocayotío Huadalupetzin: auh yn Tecpan, yhuan yztac cuauhtli, Ynpilotl Mazahuacan———
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.0#Niman zanicoacic ynteuctli Xolotl.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.1#ococoxtatíc omíc ⋕ ymixspan mochintin ynin Pilhuá hicní-huan.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.2#yhuá ytlacahuan ye matlacpohualli xiuhtica ynemilizpan;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.3#auh oquipix Ynte uctlatoca yeyautlí macuilpohuali.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.4#yhuá mâ-tlactliomomey xihuitl;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5#| yhuan chicuacenpoalliyhuá ome xihuitl opoliuhque Yn toltecâ- omocauh ynípiltzin⋕ Nopaltzin, quimaceuh yhuicopa quihuicac ý tlatocayotl'yhuá Yní yxhuitzin Toltzin ipiltzin Yncihua-pilli toltecatl omocauh tlatoaní, tetzcôco.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.6#auh ynic ome iPiltzín ytoca Cuauhtiquihuale, oquipilcauh Zacatlan
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.0#[ynic y]etetl YPiltzin Pôpozoc oquí-Pilcau[h y]tech yn tenamihtíc.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.1# auh omacoque Y ní maçehualhuan tolantzincá, yhuan occequin tin, Ynomatica, oya qui quintla za cuiltito Yhuan pacayotica oquincauh, auh ypan cen pohuali y huá chi co me xi huitl ytlatocaliz- omiquí, auh oteutic yni Piltzin Toltzin (achtopa)mitohuaya Pochotl, ca teuctia Yni- Pan tezcoco Yhuá oquímaçeuh yni Piltzin Cuinatzín, cayometoca tlaltecatzín, amo mitoa ma ytla Ytlachihual.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.2#Ynín teuctlatoaní, ca zan paquiliz nen Ylhuitlâ Pacoaían ahahuizoian ca iníc cenpoali, Yhuan caxtolí yhuá ce xihuitl otlatocatic omomi-quillí, yhuá oquimaceuh yní Piltzin Cuinatzin= ynic ometoca tlaltecatzin tlatoani tetzcôco, auh onpa quipanolti Ynitlâ tocayo, ca íehuatl ynachtopa ohuícoc ypan ma huízauhquí tlapech maytl ymacolpan nahuintin Pípiltin, amo omotlatoca pohuaya, Yhuà ytlanhuic ohuicoya ce ecahuil maytl, auh yntla come.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.3# oquinhuicaya yntlatoque omopapa tlataya mochintin ⋕ oquicauh ynonpa Yn
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.0#Tenanyôcan motlacuitlahuíaya, [campa it]oca Tenan Cacaltzín yoquichtíuh.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.1#yn i[Nantzin].
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.2# Ypan ynín cahuitl o hual Azico yn Mexica nican Yancueca tlalpan, auh oquimíxnamíc ynin tlatoaní oncan otlí ypan onpa quimaxitito- chapoltepec.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.3#⋕ canpa axcan celilo yn tlatoque omomiquilí yepoal xiuhtica, ye tlatocatia;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.4#ca Yein yn achtopa, oquítemítíque yca ahuia ca Pahaatl, oquitlalílique miec ytlahuitol, ce cuauhtlí tlacuicuítl, ce ozelotl ycxitlan;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.5#yceuítlapanhuic tetocamítl, mintlí ymatzalan;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.6#cayehuatl onoquítlallí mîque tecallí yn canpa hoccequineque omotocatíaque;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.0#Auh niman ocalac ce ypiltzín tecoatlalatzîn auh ynic oquíteneuhque onpa tetzcôco;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.1#auh zan hic oquitac pacacatqui, Ynitlatocayo, oquinxexelo Yni Macehualhua nauhcan tlamápá- âcolhuaque, Metztecazca.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2# chimeca, Tecpanneca col-huaque, Ynoquintecpan cenpoalli yhuá chicuacentlatoca Altepeme, ynic quipalehuízquía Ytech yntlá toca tequítl, no çenpoalli yhuá caxtollion nahuí tlamame Altepeme onpa quinpanoltí- Pipiltin, Ca cenmochi mochihua yepohuali yhuá [macuiltin tl]atoque yhuá Pipi-ltin, oquícuitiaya quen[nami tlal]tlatouní, ce tlamachiliztlí Ylna mícoca quípíx, oquinxexeloaiaya, tlaca altepepá- Ca Yntla ypancealtepe maytl, tepanecatl ocatcaya chicnavhtzontlí tlacatl;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.3#oquiquixtia macuiltzontli- yhuá oquin pan-oltiaya ypan Altepepan chichimêcâ, auh onpa oquinhualhuicaya ocno Yx-quích, ynnahuac yntepaneca, yn canpa oquin quixtícâ.
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.4#Ynoccequintin;
+urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.5#ca noyuh quichiuhta ynic, cemochí ynoc cequíntin tlaca izcaltique ypanpa intla oquinequízquía ynnoccequintin mehuazque áhuel omonecoc cetilizquia Yn nahuac,—
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:xolotl:anonMex.001.crapo_nah2:#chapter/section#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#Normalized Nahuatl. Richley H. Crapo, Bonnie Glass-Coffin, edd. and trans.##true#nah
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:#chapter/section/sentence#Anonymo Mexicano#Bibliothèque Nationale de Paris, coll. Aubin-Goupil 254: Documents en nahuatl relatifs aux Toltèques, etc.#Normalized Nahuatl. Richley H. Crapo, Bonnie Glass-Coffin, edd. and trans.#Sentence tokenization#true#nah
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.0#Ini:c 2 Capitulo
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.1#_Nican mote:ne:hua ini:c o:me [yehua: ntin] o:a:ltepe:manaco nican Me: xihcahtla:litzmapan._
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.2#Za:te:panian, mochi in tla:lli o:ca:hualo:c, ye o:ya:queh in To:lte:cah i: pan in tla:tilanaltin tlazi:ntlan. I:pan ce:meh a:ltepe:tl quito:ca:yo:tia A:maque:meh, o:catcaya ce: te:uctli, i:ntlahtohca:uh i:n Chi:chi:me:cah, i:to:ca: catca Tlamacatzin. Auh in i:ma:ce:hualhuan mochi cenpetla:uh-tinemia. Zan motlaque:ntitinemia i:ca te:cua:ncuetlaxtin. Temamauhtiqueh, cah in ce: mihto:l in ya:o:yo:tl. Quipiyaya te:toto:cami:tl mi:ntli, i:ntlahuitol. Quicauiaya in tlein cahcia, yolcameh, pa:pa:lo:meh. O:miqui ini:n te:uhtli, o:quica:uh o:memeh, i:pilhua:n, ce: i:to:ca: a:chca:utzin, Xo:lo:tl. In achtopa te:uctic i:pan tlahtohca:yo:tl; ini:c o:me ahmo: yo:llo motla:lli ini:c ahmo: o:te:uctia. O:quincentla:lli ya:o:te:yaca:nqueh, tzontecomameh qui:to quina:lqui:xtiz in tlein i:nnecocol o:chi:hua:loc in i:achto:nhuan, in i:colhuan catca to:nallixtlacua:pan in ihcua:c oc tlein machiztiticatca  o:q[ui … ] in ayamo: quizaia tlachiyan[tiz i:xqui:zalo] Yancuica:n Vizcaya, caxto:lpo:hualli mecatlapohualli. Auh o:hua:lmocuepqueh tlana:huatico cah mochi in tla:lli ahmo: acah quipiyaya, i:ce:l toca oquitztiahqueh in tetepanzoltzin cal chi:hualli catca. ⋕ Chiucna:hui tlapohualpan ca:huitl o:quizqui pana ini:c cenmochtin in i:ma:cehualhua:n. Ca o:hua:llaya chicuace:me tlahtoqueh auh in na:huachui:c o:hua:llaya 25 xiquipilli in teya:o:yaca:nqueh, cah ce:meh yehuantin o:quinhua:lhui:caya o:ntzontli i:hua:n ma:cui:lpo:hualli oquichtin. Auh o:uica:uh in te:uctli i:cni:uh i:to:ca: A:chca:uhtzin ca:no i:na:huac quicentla:li. In i:ma:cehualhua:n ye:po:hua:lli i:hua:n o:me xiquipilli i:hua:n tlaco, ahmo: o:mopo:uh cicihua:, pi:piltzin. Iuh neztoc in ina:mauh machio:. Ce: xiuhtica o:ahcico ce: yeya:ntli quito:ca:yo:tiqueh Cho:cohua:ya:n. Onca:n o:panoqueh Co:a:tli:camac, onca:n o:-panoqueh Tepe:nenetl (cah a:xca:n nomati iuh moto:ca:yo:tia iuhqui). Onca:n o:panoqueh To:lla:n cah onca:n o:caziqueh calzontin, tetepantin i:machiyo: ca o:calpixqueh occe:meh tla:ca. Auh o:panoqueh Mizquiyahua:llan ahmo: canah o:mo- [… quetzqueh au]h o:motla:lico i:pan ce: tepe:tl c[a quiqual]ittac, o:quito:ca:yo:ti in o:matoca Xo:lo:tl (auh nohmahtica a:xca:n catqui in i:to:ca:). Auh nican o:quiti:tlan in i:piltzin Nohpaltzin, o:tla:ltamachi:huazquia, ca:n o:matica o:ya:zquia quite:motiuh tla:lyeya:ntli in na:huachui:c. O:ahcico i:pan tete:pe Cenpohua:llan i:hua:n Tepe:a:polco. Niman o:mocuep in ca:mpa yancuica:n o:moce:hui i:pan tepe:tl Xo:lo:tl. Auh in i:piltzin o:panoc cuauhtla:-lpan catqui in na:huachui:c Tetzcohco. Otlachiz cemixtla:huacan neztoia ca o:to:cticatca tlao:lli. O:panoc cuauhtlahhuic Popo:catepe:c. In ca:mpa quitac o:tlapopo:tzaia, o:mpa i:na:huachui:c Coyo:huacan, i:hua:n Chapoltepe:tl. Onehuac o:quina:huatito in i:tahtzin, in o:cic o:panoc ini:n o:qui:zqueh cequi:ntin ya:o:te:caqueh. O:azito i:pan tepe:tl Tena:nyocan, cah quicualitaqueh in yeya:ntli. O:moquepqueh quina:huatihto in i:ntlahtohca:uh, auh o:mocentla:liqueh. Quicemihto in Nohpaltzin o:quica:huazquiaya in tepe:tl Xo:lo:tl, ini:c ya:zqueh ena:nyocan. Auh o:mocent [echicoqueh … ] tla:ca o:hua:llaya. O:tlana:huati ce:ce[n … quipana] notazquia quitla:litiaz ce: tetl o:mochi:uh mahtlactliomo:me te:tepeto:to:n tetl cah a:xca:n ohmahtica mohta. Auh ini:n yeya:ntli motocayo:ti Nepohualco. Auh mihtoa cah o:quipo:uhqueh ce:ntzontli xiquipilli tla:catl. Auh zan i:c o:moyeya:nti in te:uhtli Xo:lo:tl o:mpa in Tenna:nyocan i:c cenmochi in teya:o:qui:-zcahuan, o:quixe:xelo in i:tlatila:nal ce:cen te:uhtli, cah chiquace:meh o:hua:llaya i:na:huac.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.3#Ma:cihui pa:cticatca Xo:lo:tl i:ca in yancuica:n tla:lcuiliztli, ahmo: i:c yo:llo motla:liaya, cuix canah quipiyaia, oc cequi:ntin tla:lequeh tla:lma:ce:uhqueh hueliz o:quitza cuilizquia.  Auh niman o:quititlan in A:catonatl, ce:meh in chicuacentin pi:piltin in na:huachui:c o:hua:llaqueh, i:ca tla:ca, itzcuahuitl, mi:ntli. Auh onca:n o:na:huatiloqueh in ca:mpa o:quittac tlapopo:tza in Nohpaltzin. Onca:n o:cahcic ce: To:lte:catl i:to:ca: Ezitzin i:na:huac catca in i:cihua:uh A:xo:chia:tl i:hua:n ce: i:piltzin. Onca:n quilhuiqueh [cah ya:zqueh. Auh] o:motla:ti yehhua:tl i:hua:n oc cequi:ntin cah o:catca Cha:lco A:te:ncohuic ahmo: quinequi ya:zqueh in cepa:n in icni:huan ca ye o:tla:lca:uhca:n. O:panoc Co:lhuacan, auh onca:n o:cahcic oc omo:me in na:huac i:pilhua:nhua:n i:hua:n i:cihua:huan: Xiuhtematl i:hua:n i:cihua:uh O:ce:lo:xo:chitl Co:zauhtli Ihyo:xo:chitl i:hua:n in i:npilhua:n Coyo:tl, Acxocuahuitl. Auh a:te:ncohuic Cha:lco, o:quimahcic oc cequi:ntin (ahmo: miequintin). O:quipanahui in Popo:catepe:tl, auh onca:n Tepe:xoxo:ma o:quinmacic oc cequi:ntin in cah i:npilhua:n i:hua:n i:cihua:huan. Ini:n o:quilhui:ca Cholo:la:n o:catcaya o:me teo:pixqueh Cha:lchiuhtemeh. Auh zan onca:n o:mocuep, o:quimona:huatilito in te:uctli Xo:lo:tl, auh za:te:panian ye o:mopilittac ayac ma cequi: tope:hua, o:quinxexelhui i:n tla:lli. Auh in ocachi pi:piltin o:quinyeya:nti, mahuizauhca. O:quinxelo in ma:ce:hualtin in o:mpa tlatzintlan Zacatlan, Cuauhchina:nco, To:to:tepe:c, A:toto:nilco (cah moto:ca:yo:tia Chi:chi:me:- catlalpan, auh in oc cequi:ntin [tin … ] a:te:ncohuic o:moxihxi:nitaqueh, i:[to:ca:yo:can . ya]uh Tena:nyocan. Motzatzauhti c in i:a:ltepe:uh, cah zan cuicuitlahui:ltitoc in tlatlamaliztli. Auh ini:c ye caxto:lli o:me xihuitl o:quiman in a:lte-pe:tl Tetzcohco, cah o:qui:xtamachi:uh cah in i:piltzin Nohpaltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.4#Ini:c ye o:panoc chicue:xiuhtica o:ahcico in Xo:lo:tl te:uctli, o:hua:llaqueh chicuace:meh pi:piltin tla:tlamanpan in i:ntlahtol ahmo: miec tla:ca quihua:lhui:caya, ini:c ye quina:huatita cah nican mocenca:hua. Auh in i:ntotoca ce: Te:cua:ntzin, Tzontehua, Helzacati:techcochi, Huahua:ntzin, Tepotzotecua, Itzcuincua:ni. Ma:cihui mihtoa i:ntech qui:za in Otomimeh, Tlaxcalte:cah, Mizte:cah, Popo:locameh cah hueliz mela:huac yez, ma:zoihui ahmo: i:ntla:nhuic mopo:hua in Tlaxcalte:cah (cah za:te:pan o:hua:laqueh).
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.5#I:pan o:mpo:hualli i:hua:n chico:me xihuitl o:ahcico in pilli Xo:lo:tl, o:hua:lla:queh, oc ye:intin tlahtoqueh quihua:litquiqueh miequintin ya:o:quizqueh cha:lchiuhtihui:tzeh. In quinyaca:naya i:to:ca: catca A:co:lhua. Ini:c o:quicuic in i:to:ca: in i:tla:camecayo: in i:pilto:ca: Cihtzin, cah hue:i.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.6#[Auh … ]h pa:cca:yo:tica o:quiceliqueh in te:u[ctli X]o:lo:tl, i:hua:n in i:piltzin Nohpaltzin. ⋕ Auh o:quinna:micti in na:huachuic o:metin ichpo:chuan quipiyaya. In A:co:lhua o:quicihua:ti i:nahuac i:n Cuetlax Xo:chitl i:hua:n quimacac in pillo:tl A:zcapo:tzalco. Auh in Chico:ncua:uhtli o:quicihua:ti in Cihua:xo:chitl, i:hua:n quimacac in pillo:tl Xaltocan. Auh ini:c ye:i i:mo:n i:to:ca: Tzontecomatl, quimacac in pillo:tl tlahtohca:yo:tl Co:a:tli:ca:n, Tetzcohco. Auh zan i:c o:quinna: micti in ye:imeh ichpo:chhuan, :niman nentlamah quina:micti in i:piltzin Nohpaltzin i:ca ce: To:lte:catl ichpo:ch, in pilte:uctli po:cho:tl, ixhui:hu in tlahtoa:ni Topiltzin; cah o:quizcaltica Tlaxi:maloya:n. In i:na:ntzin Hui:tziltzilin ichtaca, auh in i:to:ca: ini:n cihua:pilli ichpo:chtli A:zcaxo:chitl. ⋕ Za:te:panian, ye hue:iata in intla:lte:ucyo:tl i:ca caxto:ltin pi:piltin (chicuace:nmeh za:te:pan-ian o:hua:llaqueh i:hua:n ini:c ye:intin o:ahcico). A[uh … o:]hua:llaqueh in i:to:ca: A:cato[nalli ahquin o:qui]macac in a:ltepe:tl i:hua:n mochi in i:tla:tilanal in Co:a:tepe:c, auh in Cuatlapal o:quimacac, in a:ltepe:tl Mamalhuasco (auh in Co:zcacuauhtli i:te:hui:cal), auh in Iztacmi:tl in o:quizcalti in Nohpaltzin o:quimac in Tepe:yecac, cah a:xca:n moto:ca:yo:tia Huadalupetzin auh in Te:cpan, i:hua:n Izta:c Cuauhtli, in pillo:tl Maza:huacan.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.7#Niman zan i:c o:ahcic in te:uctli Xo:lo:tl, o:cocoxca:tic, o:mic. ⋕ i:mi:xpan mochintin ini:n pilhua:n, icni:huan, i:hua:n i:tla:cahuan ye matla:cpo:hualli xiuhtica i:nemilizpan. Auh o:quipix in te:uctlahtohca: ye yautli ma:cui:lpo:hualli i:hua:n mahtla:ctli omo:me xihuitl | i:hua:n chicuace:n po:hualli i:hua:n o:me xihuitl o:poliuhqueh in To:lte:cah o:moca:uh. In i:piltzin Nohpaltzin quima:ce:uh i:hui:ccopa quihui:cac in tlahtohca:yo:tl i:hua:n inin i:ixhui:tzin Tlohtzin i:piltzin in cihua:pilli To:lte:catl o:moca:uh tlahtoa:ni Tetzcohco. Auh ini:c o:me i:piltzin i:to:ca: Cua:uhtiquihua:le o:quipilcauh Zacatlan.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.8#[Ini:c y]e:itetl i:piltzin Popo:zo:c, o:quipilca[uh i:tech] in Tena:mitic. Auh o:mahcoqueh in i:mahce:hua:lhua:n To:lla:ntzinca:n i:hua:n occequi:ntin. In o:matica o:ya:queh quintla:za cuiltito. i:hua:n pa:cca:yo:tica o:quincauh, auh i:pan cempo:hualli i:hua:n chico:me xihuitl i:tlahtohca:liz o:miqui, auh o:te:utic in i:piltzin Tlohtzin (achtopa) mihtoaya Po:cho:tl cah te:uctia in i:pan Tetzcohco. I:hua:n o:quimahce:uh in i:piltzin Quinatzin, cay o:me to:ca: tla:lte:catzin. (Ahmo: mihtoa ma itlah i:tlachi:hual ini:n te:uctlahtoa:ni—ca zan pa:quiliz ne:n ilhuitla pa:cohuaya:n aha:huyaloya:n. Ca ini:c ce:mpo:hualli i:hua:n caxto:lli i:hua:n ce: xihuitl o:tlahtohca:tic o:momiquilli i:hua:n o:quima:ce:uh in i:piltzin Quinatzin ini:c o:me toca: Tla:lte:catzin, tlahtoa:ni Tetzcohco, auh o:mpa quipanolti in i:tlahtohca:yo:. Cah yehuatl in achtopa o:huicoc i:pan mahuizauhqui tlapechmaitli:macolpan nahuintin pi:piltin, ahmo: o:motlahtohca:po:huaya. I:hua:n i:tlanhuic o:hui:co:ya ce: ehcahuilmaitl. Auh i:ntla:comeh o:quinhui:caya i:ntlahtoqueh o:mopa:patlataya mochintin. ⋕ O:quica:uh in o:mpa Yn
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.9#Tenanyocan motlacuitlahuiaya, [ca:mpa i:t]oca Tena:ncacaltzin yo:quichtiuh in i:[na:ntzin]. I:pan ini:n ca:huitl o:hua:lahcico in Me:xihcah nican yancueca tla:lpan, auh o:quimixnamic ini:n tlahtoa:ni onca:n ohtli i:pan. O:mpa quimaxitito Chapoltepe:c. ⋕ Ca:mpa a:xca:n celilo in tlahtoqueh, o:momiquili ye: po:hual xiuhtica. Ye tlahtohca:tiaya cah ye:in in achtopa o:quite:mitiqueh i:ca ahhuiacapahaatl. O:quitla:liliqueh miec i:tlahui:to:l, ce: cuauhtli tlacuihcuitl, ce: o:ce:lo:tl i:cxitlan; i:cuitlapanhuic te:tocami:tl, mi:ntli i:ma:tza:lan. Ca yehhua:tl ono:quitla:lli miqueh tecalli in ca:mpa oc cequi:n quinecqueh o:motocatiaqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2:2.10#Auh niman o:calac ce: i:piltzin, Teco:huatla:latzin, auh ini:c o:quite:neuhqueh o:mpa Tetzcohco. Auh zan i:c o:quittac pa:cca:catqui, in i:tlahtohca:yo:, o:quinxe:xelo in i:ma:cehualhua:n na:uhca:n tlamanpa A:co:lhuaqueh, Me:tztecazca Chi:chi:me:cah, Tepane:ca, Co:lhuaqueh. In o:quinte:cpan ce:mpo:hualli i:hua:n chicuace:n tlahtohca: a:ltepe:meh, ini:c quipale:huizquia (i:tech in tlahtohca:tequitl), no: ce:mpo:hualli i:hua:n caxto:lli onna:hui tlamameh a:ltepe:meh o:mpa quinpano:lti pi:piltin cah cenmochi mochi:hua ye:ipo:hualli i:hua:n [ma:cui:ltin tl]atohqueh i:hua:n pi:piltin o:quicuitiaya que:n[namih tla:l] tlahtoa:ni. Ceh tlamachi:liztli ilnamicoca quipix. O:quinxe:xeloaiaya tla:ca a:ltepe:pan cah intla: i:pan ce: a:ltepe:ma:itl Tepane:catl o:catcaya chiucna:uhtzontli tla:catl; o:quiqui:xtia ma:cui:ltzontli i:hua:n o:quinpanoltiaya i:pan a:ltepe:pan Chi:chi:me:cah. Auh o:mpa o:quinhua:lhui:caya ocno: i:xquich in na:huac in Tepane:ca in ca:mpa o:quinquixtica:n in occequi:ntin, ca no: iuh quichi:uhta ini:c, cemochi in occequi:ntin tla:ca izcaltiqueh i:pampa intla o:quinequizquia in occequi:ntin me:huazqueh ahhuel o:moneco:c ce:tilizquia in na:huac.
+
+
+
+
+#!ctsdata
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.0.0#Ini:c 2 Capitulo
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.1.0#_Nican mote:ne:hua ini:c o:me [yehua: ntin] o:a:ltepe:manaco nican Me: xihcahtla:litzmapan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.0#Za:te:panian, mochi in tla:lli o:ca:hualo:c, ye o:ya:queh in To:lte:cah i: pan in tla:tilanaltin tlazi:ntlan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.1#I:pan ce:meh a:ltepe:tl quito:ca:yo:tia A:maque:meh, o:catcaya ce: te:uctli, i:ntlahtohca:uh i:n Chi:chi:me:cah, i:to:ca: catca Tlamacatzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.2#Auh in i:ma:ce:hualhuan mochi cenpetla:uh-tinemia.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.3#Zan motlaque:ntitinemia i:ca te:cua:ncuetlaxtin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.4#Temamauhtiqueh, cah in ce: mihto:l in ya:o:yo:tl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.5#Quipiyaya te:toto:cami:tl mi:ntli, i:ntlahuitol.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.6#Quicauiaya in tlein cahcia, yolcameh, pa:pa:lo:meh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.7#O:miqui ini:n te:uhtli, o:quica:uh o:memeh, i:pilhua:n, ce: i:to:ca: a:chca:utzin, Xo:lo:tl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.8#In achtopa te:uctic i:pan tlahtohca:yo:tl;
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.9#ini:c o:me ahmo: yo:llo motla:lli ini:c ahmo: o:te:uctia.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.10#O:quincentla:lli ya:o:te:yaca:nqueh, tzontecomameh qui:to quina:lqui:xtiz in tlein i:nnecocol o:chi:hua:loc in i:achto:nhuan, in i:colhuan catca to:nallixtlacua:pan in ihcua:c oc tlein machiztiticatca  o:q[ui … ] in ayamo: quizaia tlachiyan[tiz i:xqui:zalo] Yancuica:n Vizcaya, caxto:lpo:hualli mecatlapohualli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.11#Auh o:hua:lmocuepqueh tlana:huatico cah mochi in tla:lli ahmo: acah quipiyaya, i:ce:l toca oquitztiahqueh in tetepanzoltzin cal chi:hualli catca.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.12#⋕ Chiucna:hui tlapohualpan ca:huitl o:quizqui pana ini:c cenmochtin in i:ma:cehualhua:n.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.13#Ca o:hua:llaya chicuace:me tlahtoqueh auh in na:huachui:c o:hua:llaya 25 xiquipilli in teya:o:yaca:nqueh, cah ce:meh yehuantin o:quinhua:lhui:caya o:ntzontli i:hua:n ma:cui:lpo:hualli oquichtin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.14#Auh o:uica:uh in te:uctli i:cni:uh i:to:ca: A:chca:uhtzin ca:no i:na:huac quicentla:li.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.15#In i:ma:cehualhua:n ye:po:hua:lli i:hua:n o:me xiquipilli i:hua:n tlaco, ahmo: o:mopo:uh cicihua:, pi:piltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.16#Iuh neztoc in ina:mauh machio:.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.17# Ce: xiuhtica o:ahcico ce: yeya:ntli quito:ca:yo:tiqueh Cho:cohua:ya:n.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.18#Onca:n o:panoqueh Co:a:tli:camac, onca:n o:-panoqueh Tepe:nenetl (cah a:xca:n nomati iuh moto:ca:yo:tia iuhqui).
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.19#Onca:n o:panoqueh To:lla:n cah onca:n o:caziqueh calzontin, tetepantin i:machiyo: ca o:calpixqueh occe:meh tla:ca.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.20#Auh o:panoqueh Mizquiyahua:llan ahmo: canah o:mo- [… quetzqueh au]h o:motla:lico i:pan ce: tepe:tl c[a quiqual]ittac, o:quito:ca:yo:ti in o:matoca Xo:lo:tl (auh nohmahtica a:xca:n catqui in i:to:ca:).
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.21#Auh nican o:quiti:tlan in i:piltzin Nohpaltzin, o:tla:ltamachi:huazquia, ca:n o:matica o:ya:zquia quite:motiuh tla:lyeya:ntli in na:huachui:c.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.22#O:ahcico i:pan tete:pe Cenpohua:llan i:hua:n Tepe:a:polco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.23#Niman o:mocuep in ca:mpa yancuica:n o:moce:hui i:pan tepe:tl Xo:lo:tl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.24#Auh in i:piltzin o:panoc cuauhtla:-lpan catqui in na:huachui:c Tetzcohco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.25#Otlachiz cemixtla:huacan neztoia ca o:to:cticatca tlao:lli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.26#O:panoc cuauhtlahhuic Popo:catepe:c.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.27#In ca:mpa quitac o:tlapopo:tzaia, o:mpa i:na:huachui:c Coyo:huacan, i:hua:n Chapoltepe:tl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.28#Onehuac o:quina:huatito in i:tahtzin, in o:cic o:panoc ini:n o:qui:zqueh cequi:ntin ya:o:te:caqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.29# O:azito i:pan tepe:tl Tena:nyocan, cah quicualitaqueh in yeya:ntli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.30#O:moquepqueh quina:huatihto in i:ntlahtohca:uh, auh o:mocentla:liqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.31#Quicemihto in Nohpaltzin o:quica:huazquiaya in tepe:tl Xo:lo:tl, ini:c ya:zqueh ena:nyocan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.32#Auh o:mocent [echicoqueh … ] tla:ca o:hua:llaya.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.33#O:tlana:huati ce:ce[n … quipana] notazquia quitla:litiaz ce: tetl o:mochi:uh mahtlactliomo:me te:tepeto:to:n tetl cah a:xca:n ohmahtica mohta.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.34#Auh ini:n yeya:ntli motocayo:ti Nepohualco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.35#Auh mihtoa cah o:quipo:uhqueh ce:ntzontli xiquipilli tla:catl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.36#Auh zan i:c o:moyeya:nti in te:uhtli Xo:lo:tl o:mpa in Tenna:nyocan i:c cenmochi in teya:o:qui:-zcahuan, o:quixe:xelo in i:tlatila:nal ce:cen te:uhtli, cah chiquace:meh o:hua:llaya i:na:huac.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.0#Ma:cihui pa:cticatca Xo:lo:tl i:ca in yancuica:n tla:lcuiliztli, ahmo: i:c yo:llo motla:liaya, cuix canah quipiyaia, oc cequi:ntin tla:lequeh tla:lma:ce:uhqueh hueliz o:quitza cuilizquia.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.1#Auh niman o:quititlan in A:catonatl, ce:meh in chicuacentin pi:piltin in na:huachui:c o:hua:llaqueh, i:ca tla:ca, itzcuahuitl, mi:ntli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.2#Auh onca:n o:na:huatiloqueh in ca:mpa o:quittac tlapopo:tza in Nohpaltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.3#Onca:n o:cahcic ce: To:lte:catl i:to:ca: Ezitzin i:na:huac catca in i:cihua:uh A:xo:chia:tl i:hua:n ce: i:piltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.4#Onca:n quilhuiqueh [cah ya:zqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.5#Auh] o:motla:ti yehhua:tl i:hua:n oc cequi:ntin cah o:catca Cha:lco A:te:ncohuic ahmo: quinequi ya:zqueh in cepa:n in icni:huan ca ye o:tla:lca:uhca:n.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.6#O:panoc Co:lhuacan, auh onca:n o:cahcic oc omo:me in na:huac i:pilhua:nhua:n i:hua:n i:cihua:huan: Xiuhtematl i:hua:n i:cihua:uh O:ce:lo:xo:chitl Co:zauhtli Ihyo:xo:chitl i:hua:n in i:npilhua:n Coyo:tl, Acxocuahuitl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.7#Auh a:te:ncohuic Cha:lco, o:quimahcic oc cequi:ntin (ahmo: miequintin).
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.8#O:quipanahui in Popo:catepe:tl, auh onca:n Tepe:xoxo:ma o:quinmacic oc cequi:ntin in cah i:npilhua:n i:hua:n i:cihua:huan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.9#Ini:n o:quilhui:ca Cholo:la:n o:catcaya o:me teo:pixqueh Cha:lchiuhtemeh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.10#Auh zan onca:n o:mocuep, o:quimona:huatilito in te:uctli Xo:lo:tl, auh za:te:panian ye o:mopilittac ayac ma cequi: tope:hua, o:quinxexelhui i:n tla:lli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.11#Auh in ocachi pi:piltin o:quinyeya:nti, mahuizauhca.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.12# O:quinxelo in ma:ce:hualtin in o:mpa tlatzintlan Zacatlan, Cuauhchina:nco, To:to:tepe:c, A:toto:nilco (cah moto:ca:yo:tia Chi:chi:me:- catlalpan, auh in oc cequi:ntin [tin … ] a:te:ncohuic o:moxihxi:nitaqueh, i:[to:ca:yo:can .
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.13#ya]uh Tena:nyocan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.14#Motzatzauhti c in i:a:ltepe:uh, cah zan cuicuitlahui:ltitoc in tlatlamaliztli.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.15#Auh ini:c ye caxto:lli o:me xihuitl o:quiman in a:lte-pe:tl Tetzcohco, cah o:qui:xtamachi:uh cah in i:piltzin Nohpaltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.4.0#Ini:c ye o:panoc chicue:xiuhtica o:ahcico in Xo:lo:tl te:uctli, o:hua:llaqueh chicuace:meh pi:piltin tla:tlamanpan in i:ntlahtol ahmo: miec tla:ca quihua:lhui:caya, ini:c ye quina:huatita cah nican mocenca:hua.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.4.1#Auh in i:ntotoca ce: Te:cua:ntzin, Tzontehua, Helzacati:techcochi, Huahua:ntzin, Tepotzotecua, Itzcuincua:ni.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.4.2#Ma:cihui mihtoa i:ntech qui:za in Otomimeh, Tlaxcalte:cah, Mizte:cah, Popo:locameh cah hueliz mela:huac yez, ma:zoihui ahmo: i:ntla:nhuic mopo:hua in Tlaxcalte:cah (cah za:te:pan o:hua:laqueh).
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.5.0#I:pan o:mpo:hualli i:hua:n chico:me xihuitl o:ahcico in pilli Xo:lo:tl, o:hua:lla:queh, oc ye:intin tlahtoqueh quihua:litquiqueh miequintin ya:o:quizqueh cha:lchiuhtihui:tzeh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.5.1#In quinyaca:naya i:to:ca: catca A:co:lhua.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.5.2#Ini:c o:quicuic in i:to:ca: in i:tla:camecayo: in i:pilto:ca: Cihtzin, cah hue:i.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.0#[Auh … ]h pa:cca:yo:tica o:quiceliqueh in te:u[ctli X]o:lo:tl, i:hua:n in i:piltzin Nohpaltzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.1#⋕ Auh o:quinna:micti in na:huachuic o:metin ichpo:chuan quipiyaya.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.2#In A:co:lhua o:quicihua:ti i:nahuac i:n Cuetlax Xo:chitl i:hua:n quimacac in pillo:tl A:zcapo:tzalco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.3#Auh in Chico:ncua:uhtli o:quicihua:ti in Cihua:xo:chitl, i:hua:n quimacac in pillo:tl Xaltocan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.4#Auh ini:c ye:i i:mo:n i:to:ca: Tzontecomatl, quimacac in pillo:tl tlahtohca:yo:tl Co:a:tli:ca:n, Tetzcohco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.5#Auh zan i:c o:quinna: micti in ye:imeh ichpo:chhuan, :niman nentlamah quina:micti in i:piltzin Nohpaltzin i:ca ce: To:lte:catl ichpo:ch, in pilte:uctli po:cho:tl, ixhui:hu in tlahtoa:ni Topiltzin;
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.6#cah o:quizcaltica Tlaxi:maloya:n.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.7#In i:na:ntzin Hui:tziltzilin ichtaca, auh in i:to:ca: ini:n cihua:pilli ichpo:chtli A:zcaxo:chitl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.8#⋕ Za:te:panian, ye hue:iata in intla:lte:ucyo:tl i:ca caxto:ltin pi:piltin (chicuace:nmeh za:te:pan-ian o:hua:llaqueh i:hua:n ini:c ye:intin o:ahcico).
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.6.9#A[uh … o:]hua:llaqueh in i:to:ca: A:cato[nalli ahquin o:qui]macac in a:ltepe:tl i:hua:n mochi in i:tla:tilanal in Co:a:tepe:c, auh in Cuatlapal o:quimacac, in a:ltepe:tl Mamalhuasco (auh in Co:zcacuauhtli i:te:hui:cal), auh in Iztacmi:tl in o:quizcalti in Nohpaltzin o:quimac in Tepe:yecac, cah a:xca:n moto:ca:yo:tia Huadalupetzin auh in Te:cpan, i:hua:n Izta:c Cuauhtli, in pillo:tl Maza:huacan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.7.0#Niman zan i:c o:ahcic in te:uctli Xo:lo:tl, o:cocoxca:tic, o:mic.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.7.1#⋕ i:mi:xpan mochintin ini:n pilhua:n, icni:huan, i:hua:n i:tla:cahuan ye matla:cpo:hualli xiuhtica i:nemilizpan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.7.2#Auh o:quipix in te:uctlahtohca: ye yautli ma:cui:lpo:hualli i:hua:n mahtla:ctli omo:me xihuitl | i:hua:n chicuace:n po:hualli i:hua:n o:me xihuitl o:poliuhqueh in To:lte:cah o:moca:uh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.7.3#In i:piltzin Nohpaltzin quima:ce:uh i:hui:ccopa quihui:cac in tlahtohca:yo:tl i:hua:n inin i:ixhui:tzin Tlohtzin i:piltzin in cihua:pilli To:lte:catl o:moca:uh tlahtoa:ni Tetzcohco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.7.4#Auh ini:c o:me i:piltzin i:to:ca: Cua:uhtiquihua:le o:quipilcauh Zacatlan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.0#[Ini:c y]e:itetl i:piltzin Popo:zo:c, o:quipilca[uh i:tech] in Tena:mitic.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.1#Auh o:mahcoqueh in i:mahce:hua:lhua:n To:lla:ntzinca:n i:hua:n occequi:ntin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.2#In o:matica o:ya:queh quintla:za cuiltito.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.3#i:hua:n pa:cca:yo:tica o:quincauh, auh i:pan cempo:hualli i:hua:n chico:me xihuitl i:tlahtohca:liz o:miqui, auh o:te:utic in i:piltzin Tlohtzin (achtopa) mihtoaya Po:cho:tl cah te:uctia in i:pan Tetzcohco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.4#I:hua:n o:quimahce:uh in i:piltzin Quinatzin, cay o:me to:ca: tla:lte:catzin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.5#(Ahmo: mihtoa ma itlah i:tlachi:hual ini:n te:uctlahtoa:ni—ca zan pa:quiliz ne:n ilhuitla pa:cohuaya:n aha:huyaloya:n.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.6# Ca ini:c ce:mpo:hualli i:hua:n caxto:lli i:hua:n ce: xihuitl o:tlahtohca:tic o:momiquilli i:hua:n o:quima:ce:uh in i:piltzin Quinatzin ini:c o:me toca: Tla:lte:catzin, tlahtoa:ni Tetzcohco, auh o:mpa quipanolti in i:tlahtohca:yo:.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.7#Cah yehuatl in achtopa o:huicoc i:pan mahuizauhqui tlapechmaitli:macolpan nahuintin pi:piltin, ahmo: o:motlahtohca:po:huaya.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.8#I:hua:n i:tlanhuic o:hui:co:ya ce: ehcahuilmaitl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.9#Auh i:ntla:comeh o:quinhui:caya i:ntlahtoqueh o:mopa:patlataya mochintin.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.10#⋕ O:quica:uh in o:mpa Yn
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.0#Tenanyocan motlacuitlahuiaya, [ca:mpa i:t]oca Tena:ncacaltzin yo:quichtiuh in i:[na:ntzin].
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.1#I:pan ini:n ca:huitl o:hua:lahcico in Me:xihcah nican yancueca tla:lpan, auh o:quimixnamic ini:n tlahtoa:ni onca:n ohtli i:pan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.2#O:mpa quimaxitito Chapoltepe:c.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.3#⋕ Ca:mpa a:xca:n celilo in tlahtoqueh, o:momiquili ye: po:hual xiuhtica.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.4#Ye tlahtohca:tiaya cah ye:in in achtopa o:quite:mitiqueh i:ca ahhuiacapahaatl.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.5#O:quitla:liliqueh miec i:tlahui:to:l, ce: cuauhtli tlacuihcuitl, ce: o:ce:lo:tl i:cxitlan;
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.6#i:cuitlapanhuic te:tocami:tl, mi:ntli i:ma:tza:lan.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.7#Ca yehhua:tl ono:quitla:lli miqueh tecalli in ca:mpa oc cequi:n quinecqueh o:motocatiaqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.0#Auh niman o:calac ce: i:piltzin, Teco:huatla:latzin, auh ini:c o:quite:neuhqueh o:mpa Tetzcohco.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.1#Auh zan i:c o:quittac pa:cca:catqui, in i:tlahtohca:yo:, o:quinxe:xelo in i:ma:cehualhua:n na:uhca:n tlamanpa A:co:lhuaqueh, Me:tztecazca Chi:chi:me:cah, Tepane:ca, Co:lhuaqueh.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.2#In o:quinte:cpan ce:mpo:hualli i:hua:n chicuace:n tlahtohca: a:ltepe:meh, ini:c quipale:huizquia (i:tech in tlahtohca:tequitl), no: ce:mpo:hualli i:hua:n caxto:lli onna:hui tlamameh a:ltepe:meh o:mpa quinpano:lti pi:piltin cah cenmochi mochi:hua ye:ipo:hualli i:hua:n [ma:cui:ltin tl]atohqueh i:hua:n pi:piltin o:quicuitiaya que:n[namih tla:l] tlahtoa:ni.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.3#Ceh tlamachi:liztli ilnamicoca quipix.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.4#O:quinxe:xeloaiaya tla:ca a:ltepe:pan cah intla: i:pan ce: a:ltepe:ma:itl Tepane:catl o:catcaya chiucna:uhtzontli tla:catl;
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.5#o:quiqui:xtia ma:cui:ltzontli i:hua:n o:quinpanoltiaya i:pan a:ltepe:pan Chi:chi:me:cah.
+urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.10.6#Auh o:mpa o:quinhua:lhui:caya ocno: i:xquich in na:huac in Tepane:ca in ca:mpa o:quinquixtica:n in occequi:ntin, ca no: iuh quichi:uhta ini:c, cemochi in occequi:ntin tla:ca izcaltiqueh i:pampa intla o:quinequizquia in occequi:ntin me:huazqueh ahhuel o:moneco:c ce:tilizquia in na:huac.
+
+#!relations
+urn:cite2:xolotl:crapo.v1:92#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.1.0
+urn:cite2:xolotl:crapo.v1:98#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.4
+urn:cite2:xolotl:crapo.v1:100#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:101#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:103#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:105#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:107#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.9
+urn:cite2:xolotl:crapo.v1:108#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.9
+urn:cite2:xolotl:crapo.v1:112#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.9
+urn:cite2:xolotl:crapo.v1:113#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.9
+urn:cite2:xolotl:crapo.v1:122#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.14
+urn:cite2:xolotl:crapo.v1:125#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.15
+urn:cite2:xolotl:crapo.v1:129#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.17
+urn:cite2:xolotl:crapo.v1:135#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.20
+urn:cite2:xolotl:crapo.v1:138#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.22
+urn:cite2:xolotl:crapo.v1:141#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.23
+urn:cite2:xolotl:crapo.v1:142#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.24
+urn:cite2:xolotl:crapo.v1:145#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.26
+urn:cite2:xolotl:crapo.v1:146#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.27
+urn:cite2:xolotl:crapo.v1:147#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.27
+urn:cite2:xolotl:crapo.v1:150#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.28
+urn:cite2:xolotl:crapo.v1:152#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.29
+urn:cite2:xolotl:crapo.v1:157#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.33
+urn:cite2:xolotl:crapo.v1:158#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.33
+urn:cite2:xolotl:crapo.v1:160#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.33
+urn:cite2:xolotl:crapo.v1:162#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.35
+urn:cite2:xolotl:crapo.v1:167#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.2.36
+urn:cite2:xolotl:crapo.v1:171#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.0
+urn:cite2:xolotl:crapo.v1:172#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.1
+urn:cite2:xolotl:crapo.v1:175#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.1
+urn:cite2:xolotl:crapo.v1:177#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.4
+urn:cite2:xolotl:crapo.v1:179#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.6
+urn:cite2:xolotl:crapo.v1:180#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.7
+urn:cite2:xolotl:crapo.v1:183#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.10
+urn:cite2:xolotl:crapo.v1:184#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.11
+urn:cite2:xolotl:crapo.v1:186#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.12
+urn:cite2:xolotl:crapo.v1:188#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.13
+urn:cite2:xolotl:crapo.v1:195#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.13
+urn:cite2:xolotl:crapo.v1:197#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.13
+urn:cite2:xolotl:crapo.v1:200#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.3.15
+urn:cite2:xolotl:crapo.v1:203#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.0
+urn:cite2:xolotl:crapo.v1:204#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.1
+urn:cite2:xolotl:crapo.v1:205#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.4.2
+urn:cite2:xolotl:crapo.v1:207#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.5.0
+urn:cite2:xolotl:crapo.v1:208#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.5.1
+urn:cite2:xolotl:crapo.v1:212#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.0
+urn:cite2:xolotl:crapo.v1:213#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.2
+urn:cite2:xolotl:crapo.v1:214#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.3
+urn:cite2:xolotl:crapo.v1:215#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.3
+urn:cite2:xolotl:crapo.v1:216#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.4
+urn:cite2:xolotl:crapo.v1:218#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.4
+urn:cite2:xolotl:crapo.v1:221#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.5
+urn:cite2:xolotl:crapo.v1:226#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.8
+urn:cite2:xolotl:crapo.v1:227#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.6.8
+urn:cite2:xolotl:crapo.v1:232#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.0
+urn:cite2:xolotl:crapo.v1:236#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.3
+urn:cite2:xolotl:crapo.v1:239#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.3
+urn:cite2:xolotl:crapo.v1:240#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.3
+urn:cite2:xolotl:crapo.v1:241#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.7.4
+urn:cite2:xolotl:crapo.v1:246#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.1
+urn:cite2:xolotl:crapo.v1:247#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.2
+urn:cite2:xolotl:crapo.v1:251#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.4
+urn:cite2:xolotl:crapo.v1:252#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.5
+urn:cite2:xolotl:crapo.v1:253#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.5
+urn:cite2:xolotl:crapo.v1:256#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.5
+urn:cite2:xolotl:crapo.v1:260#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.8.8
+urn:cite2:xolotl:crapo.v1:265#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.0
+urn:cite2:xolotl:crapo.v1:266#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.1
+urn:cite2:xolotl:crapo.v1:267#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.1
+urn:cite2:xolotl:crapo.v1:269#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.2
+urn:cite2:xolotl:crapo.v1:272#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.3
+urn:cite2:xolotl:crapo.v1:273#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.9.4
+urn:cite2:xolotl:crapo.v1:276#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.0
+urn:cite2:xolotl:crapo.v1:281#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:286#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.3
+urn:cite2:xolotl:crapo.v1:287#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.4
+urn:cite2:xolotl:crapo.v1:289#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.4
+urn:cite2:xolotl:crapo.v1:290#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.5
+urn:cite2:xolotl:crapo.v1:292#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.5
+urn:cite2:xolotl:crapo.v1:293#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.6
+urn:cite2:xolotl:crapo.v1:294#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng.sentences:2.10.6
+urn:cite2:xolotl:crapo.v1:88#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.0.0
+urn:cite2:xolotl:crapo.v1:89#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.1.0
+urn:cite2:xolotl:crapo.v1:90#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.1.0
+urn:cite2:xolotl:crapo.v1:91#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.1.1
+urn:cite2:xolotl:crapo.v1:93#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.0
+urn:cite2:xolotl:crapo.v1:94#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.1
+urn:cite2:xolotl:crapo.v1:95#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.1
+urn:cite2:xolotl:crapo.v1:96#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.1
+urn:cite2:xolotl:crapo.v1:99#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.2
+urn:cite2:xolotl:crapo.v1:102#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:104#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:106#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:110#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:111#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:114#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:115#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:116#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:117#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:118#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.4
+urn:cite2:xolotl:crapo.v1:120#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.4
+urn:cite2:xolotl:crapo.v1:123#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:124#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:126#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:127#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:130#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.6
+urn:cite2:xolotl:crapo.v1:131#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.7
+urn:cite2:xolotl:crapo.v1:132#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.7
+urn:cite2:xolotl:crapo.v1:133#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:134#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:136#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:137#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:139#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:140#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.8
+urn:cite2:xolotl:crapo.v1:143#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.9
+urn:cite2:xolotl:crapo.v1:144#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:148#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:151#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:153#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:154#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:155#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:161#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:163#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.12
+urn:cite2:xolotl:crapo.v1:165#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.12
+urn:cite2:xolotl:crapo.v1:166#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.2.13
+urn:cite2:xolotl:crapo.v1:169#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.0
+urn:cite2:xolotl:crapo.v1:170#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.0
+urn:cite2:xolotl:crapo.v1:173#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.2
+urn:cite2:xolotl:crapo.v1:174#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.2
+urn:cite2:xolotl:crapo.v1:176#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.3
+urn:cite2:xolotl:crapo.v1:181#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.3
+urn:cite2:xolotl:crapo.v1:182#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.4
+urn:cite2:xolotl:crapo.v1:185#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.5
+urn:cite2:xolotl:crapo.v1:187#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.5
+urn:cite2:xolotl:crapo.v1:189#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.6
+urn:cite2:xolotl:crapo.v1:194#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.6
+urn:cite2:xolotl:crapo.v1:196#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.6
+urn:cite2:xolotl:crapo.v1:198#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.3.6
+urn:cite2:xolotl:crapo.v1:201#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.0
+urn:cite2:xolotl:crapo.v1:202#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.4.3
+urn:cite2:xolotl:crapo.v1:206#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.5.0
+urn:cite2:xolotl:crapo.v1:209#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.0
+urn:cite2:xolotl:crapo.v1:210#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.0
+urn:cite2:xolotl:crapo.v1:211#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.1
+urn:cite2:xolotl:crapo.v1:217#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.5
+urn:cite2:xolotl:crapo.v1:219#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.6
+urn:cite2:xolotl:crapo.v1:220#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.8
+urn:cite2:xolotl:crapo.v1:222#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.9
+urn:cite2:xolotl:crapo.v1:223#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.9
+urn:cite2:xolotl:crapo.v1:224#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.9
+urn:cite2:xolotl:crapo.v1:225#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.6.11
+urn:cite2:xolotl:crapo.v1:228#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.0
+urn:cite2:xolotl:crapo.v1:229#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.1
+urn:cite2:xolotl:crapo.v1:230#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.1
+urn:cite2:xolotl:crapo.v1:231#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.2
+urn:cite2:xolotl:crapo.v1:233#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5
+urn:cite2:xolotl:crapo.v1:234#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5
+urn:cite2:xolotl:crapo.v1:235#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5
+urn:cite2:xolotl:crapo.v1:237#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5
+urn:cite2:xolotl:crapo.v1:238#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.7.5
+urn:cite2:xolotl:crapo.v1:242#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.0
+urn:cite2:xolotl:crapo.v1:243#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.0
+urn:cite2:xolotl:crapo.v1:244#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.1
+urn:cite2:xolotl:crapo.v1:245#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.1
+urn:cite2:xolotl:crapo.v1:248#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.1
+urn:cite2:xolotl:crapo.v1:250#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.1
+urn:cite2:xolotl:crapo.v1:254#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.2
+urn:cite2:xolotl:crapo.v1:257#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.2
+urn:cite2:xolotl:crapo.v1:258#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.3
+urn:cite2:xolotl:crapo.v1:261#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.3
+urn:cite2:xolotl:crapo.v1:262#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.8.3
+urn:cite2:xolotl:crapo.v1:263#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.0
+urn:cite2:xolotl:crapo.v1:264#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.2
+urn:cite2:xolotl:crapo.v1:268#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.2
+urn:cite2:xolotl:crapo.v1:270#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.3
+urn:cite2:xolotl:crapo.v1:271#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.3
+urn:cite2:xolotl:crapo.v1:274#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.9.6
+urn:cite2:xolotl:crapo.v1:277#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.1
+urn:cite2:xolotl:crapo.v1:278#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:279#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:280#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:282#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:283#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:284#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:285#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:288#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.2
+urn:cite2:xolotl:crapo.v1:291#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1.sentences:2.10.5
+urn:cite2:xolotl:crapo.v1:97#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.3
+urn:cite2:xolotl:crapo.v1:109#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.10
+urn:cite2:xolotl:crapo.v1:119#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.13
+urn:cite2:xolotl:crapo.v1:121#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.13
+urn:cite2:xolotl:crapo.v1:128#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.17
+urn:cite2:xolotl:crapo.v1:149#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.29
+urn:cite2:xolotl:crapo.v1:156#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.33
+urn:cite2:xolotl:crapo.v1:159#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.34
+urn:cite2:xolotl:crapo.v1:164#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.2.36
+urn:cite2:xolotl:crapo.v1:168#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.0
+urn:cite2:xolotl:crapo.v1:178#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.5
+urn:cite2:xolotl:crapo.v1:190#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.11
+urn:cite2:xolotl:crapo.v1:191#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.12
+urn:cite2:xolotl:crapo.v1:192#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.12
+urn:cite2:xolotl:crapo.v1:193#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.12
+urn:cite2:xolotl:crapo.v1:199#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.3.14
+urn:cite2:xolotl:crapo.v1:249#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.3
+urn:cite2:xolotl:crapo.v1:255#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.6
+urn:cite2:xolotl:crapo.v1:259#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.8.8
+urn:cite2:xolotl:crapo.v1:275#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2.sentences:2.9.7
+urn:cite2:xolotl:crapo.v1:92#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.1
+urn:cite2:xolotl:crapo.v1:98#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:100#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:101#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:103#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:105#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:107#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:108#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:112#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:113#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:122#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:125#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:129#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:135#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:138#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:141#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:142#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:145#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:146#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:147#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:150#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:152#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:157#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:158#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:160#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:162#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:167#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.2
+urn:cite2:xolotl:crapo.v1:171#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:172#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:175#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:177#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:179#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:180#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:183#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:184#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:186#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:188#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:195#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:197#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:200#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.3
+urn:cite2:xolotl:crapo.v1:203#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.4
+urn:cite2:xolotl:crapo.v1:204#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.4
+urn:cite2:xolotl:crapo.v1:205#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.4
+urn:cite2:xolotl:crapo.v1:207#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.5
+urn:cite2:xolotl:crapo.v1:208#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.5
+urn:cite2:xolotl:crapo.v1:212#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:213#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:214#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:215#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:216#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:218#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:221#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:226#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:227#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.6
+urn:cite2:xolotl:crapo.v1:232#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.7
+urn:cite2:xolotl:crapo.v1:236#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.7
+urn:cite2:xolotl:crapo.v1:239#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.7
+urn:cite2:xolotl:crapo.v1:240#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.7
+urn:cite2:xolotl:crapo.v1:241#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.7
+urn:cite2:xolotl:crapo.v1:246#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:247#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:251#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:252#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:253#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:256#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:260#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.8
+urn:cite2:xolotl:crapo.v1:265#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:266#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:267#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:269#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:272#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:273#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.9
+urn:cite2:xolotl:crapo.v1:276#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:281#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:286#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:287#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:289#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:290#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:292#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:293#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:294#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_eng:2.10
+urn:cite2:xolotl:crapo.v1:88#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.0
+urn:cite2:xolotl:crapo.v1:89#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.1
+urn:cite2:xolotl:crapo.v1:90#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.1
+urn:cite2:xolotl:crapo.v1:91#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.1
+urn:cite2:xolotl:crapo.v1:93#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:94#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:95#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:96#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:99#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:102#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:104#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:106#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:110#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:111#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:114#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:115#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:116#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:117#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:118#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:120#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:123#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:124#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:126#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:127#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:130#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:131#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:132#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:133#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:134#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:136#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:137#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:139#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:140#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:143#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:144#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:148#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:151#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:153#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:154#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:155#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:161#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:163#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:165#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:166#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.2
+urn:cite2:xolotl:crapo.v1:169#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:170#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:173#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:174#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:176#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:181#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:182#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:185#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:187#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:189#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:194#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:196#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:198#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.3
+urn:cite2:xolotl:crapo.v1:201#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.4
+urn:cite2:xolotl:crapo.v1:202#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.4
+urn:cite2:xolotl:crapo.v1:206#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.5
+urn:cite2:xolotl:crapo.v1:209#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:210#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:211#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:217#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:219#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:220#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:222#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:223#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:224#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:225#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.6
+urn:cite2:xolotl:crapo.v1:228#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:229#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:230#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:231#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:233#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:234#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:235#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:237#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:238#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.7
+urn:cite2:xolotl:crapo.v1:242#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:243#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:244#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:245#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:248#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:250#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:254#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:257#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:258#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:261#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:262#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.8
+urn:cite2:xolotl:crapo.v1:263#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:264#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:268#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:270#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:271#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:274#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.9
+urn:cite2:xolotl:crapo.v1:277#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:278#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:279#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:280#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:282#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:283#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:284#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:285#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:288#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:291#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah1:2.10
+urn:cite2:xolotl:crapo.v1:97#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:109#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:119#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:121#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:128#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:149#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:156#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:159#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:164#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.2
+urn:cite2:xolotl:crapo.v1:168#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:178#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:190#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:191#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:192#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:193#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:199#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.3
+urn:cite2:xolotl:crapo.v1:249#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.8
+urn:cite2:xolotl:crapo.v1:255#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.8
+urn:cite2:xolotl:crapo.v1:259#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.8
+urn:cite2:xolotl:crapo.v1:275#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:xolotl:anonMex.001.crapo_nah2:2.9
 
